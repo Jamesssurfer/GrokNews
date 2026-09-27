@@ -27,6 +27,9 @@ def _strip_refs(text):
     t = re.sub(r'\[([^\]]+)\]\(([^)]+)\)', r'\1', t)
     t = re.sub(r'\[[\d,\.\s]+\]', '', t)
     t = re.sub(r'\[\s*\]', '', t)
+    # Unwrap remaining markdown bold/italic so the dashboard doesn't show raw **
+    t = re.sub(r'\*\*([^*]+)\*\*', r'\1', t)
+    t = re.sub(r'(?<!\*)\*([^*]+)\*(?!\*)', r'\1', t)
     t = re.sub(r'\s{2,}', ' ', t).strip()
     if t and not t.endswith((".", "!", "?", '"')):
         t += "."
@@ -83,13 +86,43 @@ def _opening_summary(text):
     m = re.search(r'\n###\s+', body)
     if m:
         body = body[:m.start()]
-    paragraphs = [p.strip() for p in re.split(r'\n\s*\n', body) if p.strip()]
-    if paragraphs:
-        return _strip_refs(paragraphs[0])
+    # Drop horizontal rules
+    body = re.sub(r'^---+\s*', '', body, flags=re.MULTILINE).strip()
+    paragraphs = [p.strip() for p in re.split(r'\n\s*\n', body) if p.strip() and p.strip() != '---']
+    if not paragraphs:
+        return ""
+    # Skip a short title line (e.g. "Daily Macro & Geopolitical Report")
+    # and use the first real paragraph if one exists.
+    if len(paragraphs) >= 2 and len(paragraphs[0]) < 80 and not paragraphs[0].endswith('.'):
+        return _strip_refs(paragraphs[1])
+    # If the only content before ### is a short title, leave summary empty
+    # (headline already carries it).
+    if len(paragraphs) == 1 and len(paragraphs[0]) < 80 and not paragraphs[0].endswith('.'):
+        return ""
+    return _strip_refs(paragraphs[0])
+
+
+def _report_title_line(text):
+    """Pick up a short title line under the date, e.g. 'Daily Macro & Geopolitical Report'."""
+    body = re.sub(r'^===?\s*', '', text)
+    body = re.sub(r'^\*\*[^*]+\*\*\s*', '', body)
+    body = body.strip()
+    m = re.search(r'\n###\s+', body)
+    if m:
+        body = body[:m.start()]
+    for line in body.split('\n'):
+        line = line.strip()
+        if not line or line == '---' or re.match(r'^---+$', line):
+            continue
+        if 10 < len(line) < 90 and not line.endswith('.'):
+            return line
+        break
     return ""
 
 
-def _headline_from_summary(summary):
+def _headline_from_summary(summary, title_line=""):
+    if title_line:
+        return title_line
     if not summary:
         return ""
     m = re.match(r'^([^.!?]+[.!?])', summary)
@@ -99,39 +132,54 @@ def _headline_from_summary(summary):
 
 
 def _parse_subsections(section_body):
-    """Split a section body on **Bold Title** lines into subsections."""
+    """Split a section body into subsections on bold paragraph-level titles.
+
+    Supports two report styles:
+      1. Block:  **Title**\\nBody text...
+      2. Inline: **Title.** Body text continues on the same line...
+
+    Skips bold markers that appear mid-sentence or on list items
+    (e.g. **- Fed:** or extended only to **10 January 2027**).
+    """
+    body = section_body.strip()
+    # Paragraph-start bold titles only (not list items, not mid-sentence).
+    # Title ends at closing **; optional trailing . or : is consumed.
+    pattern = re.compile(
+        r'(?:^|\n)(?![-*•]\s)\*\*([^*]{2,120}?)\*\*[.:]?\s*',
+    )
+    matches = list(pattern.finditer(body))
+    if not matches:
+        text = _strip_refs(body)
+        return [{"title": "", "text": text}] if text else []
+
     subsections = []
-    # Allow match at start of body OR after a newline (first subhead often
-    # sits flush at the top after the ### heading consumed trailing newlines).
-    parts = re.split(r'(?:^|\n)\*\*([^*]+)\*\*\s*\n', section_body.strip())
-    # parts[0] is preamble before first bold subhead; then (title, body, title, body, ...)
-    if len(parts) == 1:
-        text = _strip_refs(section_body.strip())
-        if text:
-            return [{"title": "", "text": text}]
-        return []
+    # Preamble before the first titled block
+    if matches[0].start() > 0:
+        pre = body[:matches[0].start()].strip()
+        # Drop pure horizontal rules
+        pre = re.sub(r'^---+\s*', '', pre).strip()
+        if pre:
+            subsections.append({"title": "", "text": _strip_refs(pre)})
 
-    preamble = parts[0].strip()
-    if preamble:
-        subsections.append({"title": "", "text": _strip_refs(preamble)})
-
-    i = 1
-    while i < len(parts) - 1:
-        title = parts[i].strip()
-        body = parts[i + 1].strip()
-        subsections.append({
-            "title": title,
-            "text": _strip_refs(body),
-        })
-        i += 2
+    for i, m in enumerate(matches):
+        title = m.group(1).strip().rstrip('.:')
+        start = m.end()
+        end = matches[i + 1].start() if i + 1 < len(matches) else len(body)
+        text = body[start:end].strip()
+        # Strip trailing --- dividers that separate sections in the source
+        text = re.sub(r'\n---+\s*$', '', text).strip()
+        text = re.sub(r'^---+\s*', '', text).strip()
+        if title or text:
+            subsections.append({
+                "title": title,
+                "text": _strip_refs(text),
+            })
     return subsections
-
 
 
 def _parse_sections(text):
     """Extract numbered ### sections."""
     sections = []
-    # Match ### N. Title  or  ### Title
     pattern = re.compile(
         r'###\s*(?:(\d+)\.\s*)?(.+?)\s*\n',
         re.MULTILINE,
@@ -144,10 +192,10 @@ def _parse_sections(text):
         end = matches[idx + 1].start() if idx + 1 < len(matches) else len(text)
         body = text[start:end].strip()
 
-        # Don't let monitoring/outlook leak into last numbered section
-        # (those often appear after section 7 without a ### heading)
-        if re.search(r'\*\*Highest-priority|\*\*Outlook summary\*\*', body, re.I):
-            cut = re.search(r'\n\*\*(?:Highest-priority|Outlook summary)', body, re.I)
+        # Keep watchlist inside the last section as a subsection;
+        # only peel off a standalone "Outlook summary" block if present.
+        if re.search(r'\*\*Outlook summary\*\*', body, re.I):
+            cut = re.search(r'\n\*\*Outlook summary\*\*', body, re.I)
             if cut:
                 body = body[:cut.start()].strip()
 
@@ -162,9 +210,10 @@ def _parse_sections(text):
 
 
 def _monitoring_priorities(text):
+    """Extract watchlist / highest-priority indicator bullets."""
     items = []
     m = re.search(
-        r'\*\*Highest-priority[^*]*\*\*\s*\n((?:\s*[-*•].+\n?)+)',
+        r'\*\*(?:Highest-priority[^*]*|Watchlist[^*]*)\*\*\s*\n((?:\s*[-*•].+\n?)+)',
         text,
         re.IGNORECASE,
     )
@@ -201,7 +250,8 @@ def parse_story(text):
     timestamp = f"{year:04d}-{month:02d}-{day:02d}T20:00:00+00:00"
 
     summary = _opening_summary(text)
-    headline = _headline_from_summary(summary)
+    title_line = _report_title_line(text)
+    headline = _headline_from_summary(summary, title_line)
     sections = _parse_sections(text)
     monitoring = _monitoring_priorities(text)
     outlook = _outlook(text)
