@@ -1,5 +1,140 @@
 [
   {
+    "timestamp": "2026-10-01T20:00:00+00:00",
+    "header": "Thursday, October 1, 2026's Report",
+    "headline": "Daily Macro & Geopolitical Report",
+    "summary": "",
+    "sections": [
+      {
+        "number": 1,
+        "title": "Geopolitics – Key Flashpoints",
+        "subsections": [
+          {
+            "title": "U.S.–China / Trump–Xi follow-up",
+            "text": "Xi Jinping’s 23–25 September state visit to Washington produced process, not a reset. The leaders operationalized a U.S.–China Board of Trade and Board of Investment, launched a “Super Intelligence” dialogue (next exchange by November), and extended the Busan economic truce to 10 January 2027. They did not settle Taiwan, export controls on advanced chips, China’s ties to Iran, or a durable AI governance framework. White House materials claimed ~$30bn of “non-sensitive” goods each way for more favorable tariff treatment and at least 10 million metric tons of U.S. coal imports in 2027 and 2028; Beijing’s readout did not confirm the coal or investment board. A possible Trump–Xi meeting on the APEC sidelines in Shenzhen (18–19 November) is the next political calendar item."
+          },
+          {
+            "title": "U.S.–Iran and the Middle East, including Houthis",
+            "text": "The U.S.–Iran war that began in late February remains a grinding stalemate rather than a settled ceasefire. The Strait of Hormuz is restricted, not closed: AIS-visible commercial traffic is a small fraction of pre-war norms; ships that do move often do so under U.S. naval coordination while Iran claims control and permit authority. Tehran floated a seven-day reopen-and-talks plan at UNGA; Trump rejected it. Reports that Washington may resume heavier strikes after U.S. midterms keep a late-year escalation tail. Iran-backed Houthis have used the Iran war to reopen Yemen’s civil war. They seized Red Sea coastline and islands covering Bab el-Mandeb, struck Saudi energy sites and Riyadh, and are pushing inland toward Marib and Aden. The Trump administration has so far declined large-scale U.S. airstrikes; the UK has offered limited defensive tanker support to Saudi jets. Dual-chokepoint risk (Hormuz + Bab el-Mandeb) is the region’s main market transmission channel."
+          },
+          {
+            "title": "Ukraine–Russia",
+            "text": "Fighting continues past day 1,680. Russia is running a pre-winter energy-grid campaign: late-September missile and drone waves hit Kyiv-region power, data centers and housing, with civilian deaths. Drone launch rates in September already exceeded August. Ukraine claims limited eastern recapture; Russia claims village gains in Donetsk and Sumy. Putin ordered army expansion and nuclear rhetoric around Kaliningrad; NATO condemned the language. Trump has again pressed Zelenskyy to “settle”; U.S.-proposed technical talks in the UAE have no confirmed date. Congress-authorized Ukraine aid for the fiscal year ending 30 September was largely contracted."
+          },
+          {
+            "title": "Other",
+            "text": "China’s Fifth Plenum (26–29 October) and U.S. midterms (3 November) now sit inside the same six-week window as Hormuz diplomacy and APEC."
+          }
+        ],
+        "text": ""
+      },
+      {
+        "number": 2,
+        "title": "Trade Wars & Tariffs",
+        "subsections": [
+          {
+            "title": "",
+            "text": "The Busan truce is extended to 10 January 2027. Under the Board of Trade, each side published lists covering about $30bn of non-sensitive goods for more favorable tariff treatment (~$60bn two-way). U.S. lists emphasize agriculture (not a full soybean catch-up), seafood, wood, cosmetics and medical devices plus coal; China lists toys, small appliances, holiday goods, tableware and similar consumer items. Beijing said many of those U.S. import lines would move toward MFN rates. Independent estimates put the residual average U.S. tariff on China still near ~20–20.5% after the lists, versus ~11% pre-2025. Core frictions are parked, not resolved: rare-earths access (China’s 2025 controls remain suspended, not repealed), advanced-node export controls, and agricultural purchase shortfalls versus earlier pledges. The January 10 date sits after midterms and before a possible Miami G20 (mid-December) and any larger “deal” Bessent has floated. ---."
+          }
+        ],
+        "text": "The Busan truce is extended to 10 January 2027. Under the Board of Trade, each side published lists covering about $30bn of non-sensitive goods for more favorable tariff treatment (~$60bn two-way). U.S. lists emphasize agriculture (not a full soybean catch-up), seafood, wood, cosmetics and medical devices plus coal; China lists toys, small appliances, holiday goods, tableware and similar consumer items. Beijing said many of those U.S. import lines would move toward MFN rates. Independent estimates put the residual average U.S. tariff on China still near ~20–20.5% after the lists, versus ~11% pre-2025. Core frictions are parked, not resolved: rare-earths access (China’s 2025 controls remain suspended, not repealed), advanced-node export controls, and agricultural purchase shortfalls versus earlier pledges. The January 10 date sits after midterms and before a possible Miami G20 (mid-December) and any larger “deal” Bessent has floated. ---."
+      },
+      {
+        "number": 3,
+        "title": "Macro Currency Interventions",
+        "subsections": [
+          {
+            "title": "Yen / BOJ",
+            "text": "USD/JPY is around 157.3–157.5. Japan did not intervene in the Aug 27–Sep 28 window after a record coordinated yen-buying operation in late July–August (about ¥15.4 trillion in that reporting period; ~$99bn cited for the prior month) when the pair approached 164. Verbal intervention remains loud: Finance Minister Katayama and currency chief Mimura have restated readiness to act and cited a “very clear” message including the U.S. BOJ hiked 25bp on 18 September to 1.25% (31-year high). Markets price another hike by year-end (December more than October, though some former officials still flag October). Official October “reference” rate is 159 yen per dollar—administrative, not a peg."
+          },
+          {
+            "title": "Broader CB trend",
+            "text": "Policy is tightening into an energy shock, not easing into disinflation. Fed funds effective ~3.88% (target 3.75–4.00%) after a September hike. ECB deposit rate is 2.50% after a 25bp hike on 10 September. Rate differentials still favor the dollar versus yen; intervention risk and faster BOJ hiking are what have capped USD/JPY below summer extremes."
+          }
+        ],
+        "text": ""
+      },
+      {
+        "number": 4,
+        "title": "Energy Markets & Oil Prices",
+        "subsections": [
+          {
+            "title": "",
+            "text": "Latest EIA spots (29 September): WTI $96.16, Brent $113.96. The week was violent: WTI printed $85.23 on the 25th and $99.37 on the 28th. Brent has spent much of mid-to-late September in the mid-$110s to low-$120s after mid-month prints near $130. The WTI–Brent spread remains unusually wide, consistent with Gulf/Hormuz risk premia on waterborne crude versus U.S. inland barrels."
+          },
+          {
+            "title": "Drivers",
+            "text": "Restricted Hormuz flows; Houthi pressure on Red Sea/Bab el-Mandeb and Saudi infrastructure; refining-margin spikes feeding product inflation in Europe; and residual tanker-war incidents. U.S. officials have claimed large escorted volumes out of the Gulf; AIS and private trackers still show traffic far below the pre-war ~85 ships/day baseline."
+          },
+          {
+            "title": "Risks / short-term outlook",
+            "text": "A rejected Iranian reopen plan plus midterm-timed U.S. strike talk keeps an upside tail. A durable convoy-and-permit equilibrium could grind prices lower from recent peaks but leave a structural premium versus 2025. Watch Saudi alternative-route outages and winter product stocks. Trump has publicly urged China to raise refined-product output—an unusual bilateral energy ask tied to the summit."
+          }
+        ],
+        "text": ""
+      },
+      {
+        "number": 5,
+        "title": "Inflation, Monetary Policy & Bond Markets",
+        "subsections": [
+          {
+            "title": "Inflation",
+            "text": "U.S. August PCE rose 0.3% m/m and 3.4% y/y (softer than ~3.7% consensus in some wraps); core PCE ~3.0% y/y, down from 3.3%. Still far above the 2% target. Euro-area headline inflation was 3.3% in August (from 2.9% in July), with energy inflation 14.3%. Japan’s core CPI (ex-fresh food) eased to 1.7% y/y in August. Oil and refining margins are the common shock."
+          },
+          {
+            "title": "Policy",
+            "text": "Fed: September 25bp hike; October 28 meeting is live but market-implied odds of another hike fell into the high-30s after PCE. ECB: 25bp hike on 10 September; staff see headline averaging 3.0% in 2026, 2.5% in 2027; another hike in December is widely discussed. BOJ: 1.25%, hiking cycle still open."
+          },
+          {
+            "title": "Bonds",
+            "text": "10-year Treasury yield ~5.24–5.26% on 29 September (H.15), with intraday prints above 5.30%—highest since the early 2000s on some vendor series. 2-year ~4.87–4.89%; 30-year ~5.59%. Real 10-year TIPS yields near 2.9%. Curve is upward-sloping; the September sell-off was one of the largest monthly 10-year increases since 2022, driven by growth + energy inflation + term premium, not only hike pricing. U.S. public debt is reported around $40.1 trillion."
+          }
+        ],
+        "text": ""
+      },
+      {
+        "number": 6,
+        "title": "AI Capex Boom & Supply-Chain Risks",
+        "subsections": [
+          {
+            "title": "",
+            "text": "Hyperscaler and “Stargate”-class spending is still the growth shock absorber: 2026 plans in the mid-hundreds of billions of dollars for AI data centers; SEMI now sees 300mm fab equipment at $133bn in 2026 and $151bn in 2027. WFE growth forecasts have been revised sharply higher. HBM/DRAM tightness is acute (DRAM revenue forecasts up by large triple-digit percentages this year); ABF substrates, advanced packaging, CoWoS-class capacity, power, and high-purity chemicals are binding constraints into 2027–28."
+          },
+          {
+            "title": "Concentration risks",
+            "text": "- Logic foundry: TSMC still dominates leading-edge AI silicon; Arizona build-out is large but not a near-term substitute for Taiwan.\n- Accelerators: NVIDIA still the overwhelming training-chip share.\n- Memory: Samsung, SK Hynix, Micron; HBM allocation crowding out conventional DRAM.\n- Minerals: China remains dominant in gallium, germanium, tungsten, refined rare earths and much silicon processing. The trade truce only suspends the most disruptive 2025 export controls.\n- Packaging / substrates / power: Less priced than GPUs; multi-year shortages flagged for ABF and grid interconnection.\n- Geopolitical overlay: Taiwan risk, Middle East disruption of energy for power-hungry campuses, and any snap-back of Chinese critical-mineral licensing after 10 January 2027. Q2 U.S. GDP was revised up to 2.2% annualized, with AI investment a visible contributor—exactly the loop that is also lifting real yields."
+          }
+        ],
+        "text": ""
+      },
+      {
+        "number": 7,
+        "title": "Interconnections & Monitoring Priorities",
+        "subsections": [
+          {
+            "title": "",
+            "text": "Energy war risk is the hinge. Restricted Hormuz + Houthi Red Sea action keep oil and refined products elevated → sticky PCE/HICP → higher-for-longer Fed/ECB and a 5%+ 10-year → tighter financial conditions outside the AI complex. The same energy shock is why Japan is hiking and threatening FX intervention even with a still-wide U.S.–Japan rate gap. The U.S.–China truce is a volatility suppressor until 10 January, not a supply-chain solution. Rare earths, gallium and packaging chemicals sit underneath the AI capex boom that is currently supporting U.S. growth and equity multiples. A January snap-back, or a Taiwan scare around APEC/Plenum season, would hit both inflation (via minerals and rerouting) and growth (via delayed GPU/HBM shipments). Ukraine’s winter grid war is a secondary European gas/power and refugee-fiscal risk, not the global oil driver. Midterms (3 Nov) are the political option-expiry for U.S. Iran policy."
+          },
+          {
+            "title": "Watchlist (next 7–14 days)",
+            "text": "- Hormuz daily transit counts vs. U.S. escort claims; any new tanker strikes\n- Houthi–Saudi exchanges and Bab el-Mandeb insurance premia\n- U.S. September CPI / jobs (feeds the 28 October FOMC)\n- USD/JPY 156–160 band and MOF commentary\n- Implementation detail on the $30bn-per-side tariff lists\n- China Fifth Plenum prep and rare-earth licensing anecdotes\n- HBM/ABF lead times and hyperscaler capex commentary into Q3 earnings --- This report can be updated on request as prints, battlefield reports, or official statements move."
+          }
+        ],
+        "text": ""
+      }
+    ],
+    "monitoring_priorities": [
+      "Hormuz daily transit counts vs. U.S. escort claims; any new tanker strikes.",
+      "Houthi–Saudi exchanges and Bab el-Mandeb insurance premia.",
+      "U.S. September CPI / jobs (feeds the 28 October FOMC).",
+      "USD/JPY 156–160 band and MOF commentary.",
+      "Implementation detail on the $30bn-per-side tariff lists.",
+      "China Fifth Plenum prep and rare-earth licensing anecdotes.",
+      "HBM/ABF lead times and hyperscaler capex commentary into Q3 earnings."
+    ],
+    "outlook": ""
+  },
+  {
     "timestamp": "2026-09-30T20:00:00+00:00",
     "header": "Wednesday, September 30, 2026's Report",
     "headline": "Daily snapshot as of early Wednesday Asia time.",
