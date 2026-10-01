@@ -1,5 +1,20 @@
 [
   {
+    "timestamp": "2026-10-02T20:00:00+00:00",
+    "header": "Friday, October 2, 2026's Report",
+    "headline": "Daily macro and geopolitical brief.",
+    "summary": "Daily macro and geopolitical brief. Figures are the latest available through 1–2 October 2026 (U.S. session data mostly through 1 October).",
+    "sections": [],
+    "monitoring_priorities": [
+      "Daily: Brent/WTI and Hormuz/Red Sea incident headlines; USD/JPY versus 158–160 and any MOF/BOJ language.",
+      "This week: euro-area flash HICP (2 October); any U.S. carrier or sanctions move on Iran; Kyiv grid status after further strikes.",
+      "Into January: Busan truce expiry on 10 January; rare-earth license flow; implementation of the $60 billion tariff lists; soybean and farm-purchase tracking.",
+      "Policy: FOMC path if PCE stays near 3%+ on energy; ECB October/December hike odds; BOJ December versus October.",
+      "AI: TSMC monthly revenue, HBM pricing, CoWoS lead times, and any Chinese export-license tightening ahead of the truce deadline."
+    ],
+    "outlook": ""
+  },
+  {
     "timestamp": "2026-10-01T20:00:00+00:00",
     "header": "Thursday, October 1, 2026's Report",
     "headline": "## Daily Macro & Geopolitical Report",
