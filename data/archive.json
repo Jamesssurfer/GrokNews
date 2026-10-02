@@ -1,5 +1,125 @@
 {
-  "past_2_weeks": [],
+  "past_2_weeks": [
+    {
+      "timestamp": "2026-09-25T20:00:00+00:00",
+      "header": "Friday, September 25, 2026's Report",
+      "headline": "This report consolidates current developments across geopolitics, trade wars, currency interventions, and the additional critical factors that interact with them (energy markets, inflation/monetary policy, AI supply chains, and bond yields).",
+      "summary": "This report consolidates current developments across geopolitics, trade wars, currency interventions, and the additional critical factors that interact with them (energy markets, inflation/monetary policy, AI supply chains, and bond yields). It draws on the latest available information through early September 26.",
+      "sections": [
+        {
+          "number": 1,
+          "title": "Geopolitics – Key Flashpoints",
+          "subsections": [
+            {
+              "title": "U.S.–China Relations (Trump-Xi Summit, Sept 23–25)",
+              "text": "Chinese President Xi Jinping completed a three-day state visit to Washington. The meetings featured extensive ceremony (airport greeting, state dinner, National Archives visit, panda diplomacy) but limited concrete policy breakthroughs. Main outcome: A two-month extension of the existing trade truce (originally from the 2025 Busan understanding) until January 10, 2027. Both sides signaled willingness to continue talks on a broader deal covering tariffs on roughly $30 billion of non-critical goods, agricultural purchases, and financial services. China is meeting soybean volume targets but lagging on other agricultural commitments and consistent rare-earth deliveries. No major progress was reported on Taiwan (Xi pressed for stronger U.S. opposition to independence; no public change in U.S. policy), AI governance, the Iran conflict, or Ukraine. Leaders agreed to meet again at APEC (Shenzhen, November) and the G20 (Miami, December). Analysts described the summit as “pomp over substance,” with both sides buying time while core strategic differences remain."
+            },
+            {
+              "title": "U.S.–Iran Conflict & Middle East",
+              "text": "The war of attrition continues after the collapse of the June 2026 Memorandum of Understanding. Iran has floated new proposals (including a seven-day path to reopen the Strait of Hormuz under certain conditions), but gaps remain large. The U.S. continues economic pressure and targeted strikes; Iran maintains resistance on nuclear and navigation issues. Iran-backed Houthis launched missile and drone attacks on targets in Riyadh and Saudi Aramco facilities near Yanbu (Red Sea export hub). Saudi forces intercepted many of the projectiles. These actions keep pressure on energy infrastructure and shipping."
+            },
+            {
+              "title": "Ukraine–Russia",
+              "text": "Fighting continues without major frontline breakthroughs. Russia has conducted large drone and missile attacks on Kyiv and other cities. Ukraine continues long-range strikes on Russian energy and refinery targets. At the UN, Zelenskyy pushed for tighter sanctions and floated limited energy-related ceasefire ideas ahead of winter; Russia shows little interest in meaningful talks short of maximalist demands. The U.S. has invited Putin to the G20 in Miami."
+            },
+            {
+              "title": "Other",
+              "text": "Netanyahu faced a walkout of dozens of delegates during his UN General Assembly speech. Broader UN week highlighted ongoing gridlock on multiple conflicts."
+            }
+          ],
+          "text": ""
+        },
+        {
+          "number": 2,
+          "title": "Trade Wars & Tariffs",
+          "subsections": [
+            {
+              "title": "",
+              "text": "The dominant near-term development is the short U.S.–China trade truce extension to January 10, 2027. This suspends certain tariffs and maintains rare-earth flows while talks continue. Expectations for a comprehensive deal remain low; both sides are managing a fragile “hostile but interdependent” relationship. Broader U.S. tariff actions earlier in 2026 included new 10–12.5% duties on goods from roughly 60 partners (framed around forced-labor enforcement). Tensions persist with Canada and others. EU–China frictions and discussions of closer Canada–EU ties have also drawn U.S. tariff threats. Supply-chain reconfiguration and “friend-shoring” continue as structural responses."
+            }
+          ],
+          "text": "The dominant near-term development is the short U.S.–China trade truce extension to January 10, 2027. This suspends certain tariffs and maintains rare-earth flows while talks continue. Expectations for a comprehensive deal remain low; both sides are managing a fragile “hostile but interdependent” relationship. Broader U.S. tariff actions earlier in 2026 included new 10–12.5% duties on goods from roughly 60 partners (framed around forced-labor enforcement). Tensions persist with Canada and others. EU–China frictions and discussions of closer Canada–EU ties have also drawn U.S. tariff threats. Supply-chain reconfiguration and “friend-shoring” continue as structural responses."
+        },
+        {
+          "number": 3,
+          "title": "Macro Currency Interventions",
+          "subsections": [
+            {
+              "title": "Japanese Yen",
+              "text": "Intervention risk remains elevated. The yen has weakened toward the 159–160 area versus the dollar after the Bank of Japan’s recent rate hike (to a 31-year high near 1.25%) failed to deliver sustained strength. Japanese Finance Minister Satsuki Katayama has reaffirmed that the principles of the July 2026 coordinated U.S.–Japan intervention (the first major joint yen support in decades) remain in place. Japan spent a record amount (over ¥27 trillion year-to-date in some tallies) on interventions in 2026. Rate checks have been reported, and markets are watching closely for further action if volatility intensifies."
+            },
+            {
+              "title": "Broader Trend",
+              "text": "Central banks continue gradual diversification away from the dollar (more plan to reduce USD holdings than increase them over the next decade). Interest in gold, the euro, and the renminbi has risen amid geopolitical risk. FX interventions overall have increased year-on-year. Other emerging-market central banks (e.g., India) have intervened to support local currencies amid global rate and oil pressures."
+            }
+          ],
+          "text": ""
+        },
+        {
+          "number": 4,
+          "title": "Energy Markets & Oil Prices",
+          "subsections": [
+            {
+              "title": "",
+              "text": "Oil remains the dominant near-term swing factor linking geopolitics to inflation, growth, and policy. Brent and WTI have been volatile. After jumping on Houthi attacks and limited U.S.–Iran progress (Brent briefly near $106–107), prices eased somewhat into the low-to-mid $90s / around $105 range depending on the contract and exact timing (as of late Sept 25 data). Global inventories have drawn down significantly. Upside risks include further Houthi/Saudi infrastructure damage, renewed Iranian actions, or prolonged Hormuz/Red Sea constraints. Downside risks center on diplomatic progress or faster Middle East production recovery. The EIA projects Brent averaging around $90 in the second half of 2026 before declining toward the mid-$70s in 2027 as production recovers. Extreme disruption scenarios from some banks still flag potential spikes well above $100 (or higher). Higher oil feeds directly into inflation, central-bank decisions, growth drag (especially in energy-importing Europe and Asia), and risk sentiment."
+            }
+          ],
+          "text": "Oil remains the dominant near-term swing factor linking geopolitics to inflation, growth, and policy. Brent and WTI have been volatile. After jumping on Houthi attacks and limited U.S.–Iran progress (Brent briefly near $106–107), prices eased somewhat into the low-to-mid $90s / around $105 range depending on the contract and exact timing (as of late Sept 25 data). Global inventories have drawn down significantly. Upside risks include further Houthi/Saudi infrastructure damage, renewed Iranian actions, or prolonged Hormuz/Red Sea constraints. Downside risks center on diplomatic progress or faster Middle East production recovery. The EIA projects Brent averaging around $90 in the second half of 2026 before declining toward the mid-$70s in 2027 as production recovers. Extreme disruption scenarios from some banks still flag potential spikes well above $100 (or higher). Higher oil feeds directly into inflation, central-bank decisions, growth drag (especially in energy-importing Europe and Asia), and risk sentiment."
+        },
+        {
+          "number": 5,
+          "title": "Inflation, Monetary Policy & Bond Markets",
+          "subsections": [
+            {
+              "title": "Inflation",
+              "text": "U.S. headline CPI held around 3.4% year-over-year in recent readings, with energy contributing meaningfully. Core measures have eased somewhat (near 2.4% in some prints) but remain sticky in services. Persistent oil above $90–100 keeps headline inflation elevated and complicates the path back to the Fed’s 2% target."
+            },
+            {
+              "title": "Monetary Policy",
+              "text": "The Federal Reserve has been in a hiking cycle (policy rate recently in the 3.75–4.00% range or higher). Markets have priced further increases if inflation stays elevated. The ECB and others have also tightened. AI-driven investment is providing growth support that partially offsets energy-related drag."
+            },
+            {
+              "title": "Bond Markets",
+              "text": "The U.S. 10-year Treasury yield has climbed to multi-year highs (recently ~5.2%), with the 30-year reaching levels not seen since 2004. Drivers include sticky inflation, resilient growth (partly AI-supported), heavy Treasury issuance amid large fiscal deficits, and a higher term premium. Higher yields raise borrowing costs, support the dollar (complicating some currency interventions), and interact with trade and geopolitical risk premiums. Many forecasts see the 10-year remaining in a 4.5–5.0%+ range near term (“higher for longer”)."
+            }
+          ],
+          "text": ""
+        },
+        {
+          "number": 6,
+          "title": "AI Capex Boom & Supply-Chain Risks",
+          "subsections": [
+            {
+              "title": "",
+              "text": "Massive AI-related capital expenditure (data centers, chips, power infrastructure) is a major growth engine, especially in the U.S., helping keep overall growth resilient despite energy and trade shocks. However, the supply chain is highly concentrated and geopolitically fragile: - Advanced packaging: TSMC controls ~90% of capacity. - High-bandwidth memory (HBM): Dominated by three suppliers (SK Hynix, Samsung, Micron); demand is expected to exceed supply well into 2027–2030. - Critical minerals: China refines ~90% of rare earths used in magnets, motors, and cooling systems. China has already used export controls on gallium, germanium, and other materials as leverage (some suspended under the current trade truce until early 2027). - Other bottlenecks: Lithography (ASML), specialty gases/chemicals, transformers and power equipment (long lead times into 2027–2029), and data-center energy demand straining grids. Any escalation in U.S.–China tech controls, rare-earth restrictions, or Taiwan-related tensions could constrain AI hardware availability, raise costs, and slow the capex boom supporting growth and equities. Diversification efforts are underway but will take years."
+            }
+          ],
+          "text": "Massive AI-related capital expenditure (data centers, chips, power infrastructure) is a major growth engine, especially in the U.S., helping keep overall growth resilient despite energy and trade shocks. However, the supply chain is highly concentrated and geopolitically fragile: - Advanced packaging: TSMC controls ~90% of capacity. - High-bandwidth memory (HBM): Dominated by three suppliers (SK Hynix, Samsung, Micron); demand is expected to exceed supply well into 2027–2030. - Critical minerals: China refines ~90% of rare earths used in magnets, motors, and cooling systems. China has already used export controls on gallium, germanium, and other materials as leverage (some suspended under the current trade truce until early 2027). - Other bottlenecks: Lithography (ASML), specialty gases/chemicals, transformers and power equipment (long lead times into 2027–2029), and data-center energy demand straining grids. Any escalation in U.S.–China tech controls, rare-earth restrictions, or Taiwan-related tensions could constrain AI hardware availability, raise costs, and slow the capex boom supporting growth and equities. Diversification efforts are underway but will take years."
+        },
+        {
+          "number": 7,
+          "title": "Interconnections & Monitoring Priorities",
+          "subsections": [
+            {
+              "title": "",
+              "text": "These factors form a tightly linked system: Geopolitics (Iran, Houthis, U.S.–China) → Oil prices → Inflation → Central-bank policy & yields → Currencies & intervention risk → Feedback into trade and growth. AI investment acts as a partial offset to energy and trade drags but introduces its own concentration risks. Fiscal deficits and bond supply keep upward pressure on long-term yields."
+            }
+          ],
+          "text": "These factors form a tightly linked system: Geopolitics (Iran, Houthis, U.S.–China) → Oil prices → Inflation → Central-bank policy & yields → Currencies & intervention risk → Feedback into trade and growth. AI investment acts as a partial offset to energy and trade drags but introduces its own concentration risks. Fiscal deficits and bond supply keep upward pressure on long-term yields."
+        }
+      ],
+      "monitoring_priorities": [
+        "Oil prices (Brent/WTI) and Saudi pipeline/export updates.",
+        "10-year and 30-year Treasury yields.",
+        "USD/JPY and any Japanese intervention signals.",
+        "U.S. CPI/PCE and employment data.",
+        "Fed speakers and FOMC communications.",
+        "Rare-earth/semiconductor export-control or capacity news.",
+        "Iran/Houthi and Trump-Xi follow-up developments."
+      ],
+      "outlook": "The environment remains one of elevated volatility and fragmented risk. Growth is supported by AI and resilient U.S. demand but faces headwinds from energy costs, sticky inflation, and geopolitical uncertainty. Policy responses (monetary, fiscal, and trade) will continue to be data- and event-dependent, with the January 2027 U.S.–China deadline and ongoing Middle East developments as key near-term markers."
+    }
+  ],
   "past_1_month": [],
   "past_3_months": [],
   "past_6_months": [],
