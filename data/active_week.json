@@ -1,5 +1,111 @@
 [
   {
+    "timestamp": "2026-10-04T20:00:00+00:00",
+    "header": "Sunday, October 4, 2026's Report",
+    "headline": "Daily Macro & Geopolitical Report.",
+    "summary": "Daily Macro & Geopolitical Report. Figures below use the latest prints available into the weekend of 2–3 October; markets are closed Sunday.",
+    "sections": [
+      {
+        "number": 1,
+        "title": "Geopolitics – Key Flashpoints",
+        "subsections": [
+          {
+            "title": "U.S.–China",
+            "text": "President Xi’s 23–25 September state visit to Washington produced an incremental package, not a reset. The trade truce was extended through 10 January 2027, pushing back a return to triple-digit tariffs and the reactivation of additional Chinese rare-earth controls. The two sides operationalized the Boards of Trade and Investment agreed in Beijing in May, recommended more favorable tariff treatment on about $30 billion of non-sensitive goods each way, and launched an agricultural working group. China also committed to import at least 10 million metric tons of U.S. coal in both 2027 and 2028. An AI dialogue was formalized. Section 301 and 232 duties remain in place; effective U.S. tariffs on China were still estimated in the mid-20s to mid-30s percent range as of mid-year. Technology, rare earths, and Taiwan were left unresolved."
+          },
+          {
+            "title": "U.S.–Iran and the Middle East",
+            "text": "The June Islamabad memorandum of understanding expired without an extension. Iran continues to assert a permit-and-toll regime over the Strait of Hormuz; the strait remains unsafe for normal commercial traffic, with attacks continuing into early October (reports of vessels struck since late September). A U.S. blockade of Iranian ports has been in force since mid-July. Hormuz crude flows have partially recovered—tracking firms put September averages roughly in the 7–10 mb/d range through the strait, plus bypass volumes—but remain well below the pre-war baseline near 15–17 mb/d. The U.S. is reported to be sending a third carrier and roughly 9,000–10,000 additional troops, with arrival expected by late November. Over the weekend of 3 October, the U.S. struck Houthi targets in Yemen after renewed Red Sea attacks; an Iranian commander warned of a “decisive” response while denying direct direction of the Houthis. Saudi-backed Yemeni forces have begun air operations in Taiz, and Riyadh is reported to be preparing a limited coastal counter-offensive after Houthi gains around Mocha and the Bab al-Mandeb in mid-September. Those gains matter because Saudi exports have shifted toward the Red Sea while Hormuz remains impaired."
+          },
+          {
+            "title": "Ukraine–Russia",
+            "text": "Russia’s long-range campaign intensified into early October, including repeated strikes on the Northern and Southern bridges over the Dnipro in Kyiv, aimed at splitting the capital’s logistics. Five Russian drones, including Banderol loitering munitions, crashed in Moldova on 3 October. President Zelensky said Ukraine is testing high-speed interceptor drones and hopes to reach about 400 units by month-end, and that Putin had instructed commanders to drop restraints on the battlefield. Ukrainian long-range strikes continue against Russian launch sites, refineries, and energy infrastructure. No diplomatic breakthrough is in view."
+          }
+        ],
+        "text": ""
+      },
+      {
+        "number": 2,
+        "title": "Trade Wars & Tariffs",
+        "subsections": [
+          {
+            "title": "",
+            "text": "The operative framework is the January 2027 truce extension, not a broad tariff rollback. Lists published around 28 September cover roughly $60 billion of two-way trade recommended for more favorable treatment (about $30 billion each side): U.S. agricultural goods, seafood, wood, cosmetics, and medical devices; Chinese consumer goods such as small appliances, toys, and car seats. China’s commerce ministry has said the sides aim for a reciprocal reduction framework and that most covered products could move toward MFN rates, but legal procedures and a coordinated effective date are still pending. Pre-existing Section 301/232 duties are not removed. July’s 12.5% tariffs on goods from about 60 partners over forced-labor claims remain a separate track. Rare-earth controls announced in October 2025 stay suspended under the extended arrangements through at least 10 January 2027, though August trade data still showed very thin U.S.-bound shipments of controlled compounds and magnets. U.S.–China goods trade remains well below 2024 levels."
+          }
+        ],
+        "text": "The operative framework is the January 2027 truce extension, not a broad tariff rollback. Lists published around 28 September cover roughly $60 billion of two-way trade recommended for more favorable treatment (about $30 billion each side): U.S. agricultural goods, seafood, wood, cosmetics, and medical devices; Chinese consumer goods such as small appliances, toys, and car seats. China’s commerce ministry has said the sides aim for a reciprocal reduction framework and that most covered products could move toward MFN rates, but legal procedures and a coordinated effective date are still pending. Pre-existing Section 301/232 duties are not removed. July’s 12.5% tariffs on goods from about 60 partners over forced-labor claims remain a separate track. Rare-earth controls announced in October 2025 stay suspended under the extended arrangements through at least 10 January 2027, though August trade data still showed very thin U.S.-bound shipments of controlled compounds and magnets. U.S.–China goods trade remains well below 2024 levels."
+      },
+      {
+        "number": 3,
+        "title": "Macro Currency Interventions",
+        "subsections": [
+          {
+            "title": "",
+            "text": "USD/JPY closed near 157.9 on 2 October, inside a 157–158 range after dipping below 157 on softer U.S. inflation data and then giving the move back. That is well off the late-July 40-year low near 164, but the yen has not sustained the post-intervention recovery. Japan and the United States intervened jointly around 31 July after the yen hit those lows; reported Japanese operations this year exceed ¥27 trillion. The Bank of Japan raised its policy rate 25 bp to 1.25% on 18 September, a 31-year high, with market pricing for another hike on 30 October around one-third. U.S. Treasury Secretary Bessent has publicly pressed for a stronger yen, linking it to the risk that Japan sells Treasuries to fund defense of the currency. Rate checks after the September decision signaled that authorities still treat further weakness as intervention territory. The yield gap versus the U.S. remains the dominant driver."
+          }
+        ],
+        "text": "USD/JPY closed near 157.9 on 2 October, inside a 157–158 range after dipping below 157 on softer U.S. inflation data and then giving the move back. That is well off the late-July 40-year low near 164, but the yen has not sustained the post-intervention recovery. Japan and the United States intervened jointly around 31 July after the yen hit those lows; reported Japanese operations this year exceed ¥27 trillion. The Bank of Japan raised its policy rate 25 bp to 1.25% on 18 September, a 31-year high, with market pricing for another hike on 30 October around one-third. U.S. Treasury Secretary Bessent has publicly pressed for a stronger yen, linking it to the risk that Japan sells Treasuries to fund defense of the currency. Rate checks after the September decision signaled that authorities still treat further weakness as intervention territory. The yield gap versus the U.S. remains the dominant driver."
+      },
+      {
+        "number": 4,
+        "title": "Energy Markets & Oil Prices",
+        "subsections": [
+          {
+            "title": "",
+            "text": "Brent settled near $102.25 and WTI near $91.11 on 2 October (Brent roughly flat on the week, WTI down about 1.6%). The complex is trading a product squeeze layered on a military premium, not a pure crude shortage. Chinese refiners have suspended diesel, gasoline, and jet exports; European leaders agreed to release additional diesel stocks after a U.S. request. Three tankers were reported struck in Hormuz this week. Offsetting that, Gulf loadings have recovered as shippers adapt to a high-risk regime, and Saudi Red Sea capacity (Yanbu) has partially offset the strait. Barclays lifted its Q4 Brent forecast to $115 and its 2026 average to $100, citing still-tight physical markets. Near-term range discussed by desks is roughly $98–107, with upside tied to a wider Iran campaign or a successful Houthi squeeze on Red Sea flows, and downside tied to sustained Gulf export recovery and product-stock releases. The June MOU’s failure means the market is no longer pricing a clean reopening."
+          }
+        ],
+        "text": "Brent settled near $102.25 and WTI near $91.11 on 2 October (Brent roughly flat on the week, WTI down about 1.6%). The complex is trading a product squeeze layered on a military premium, not a pure crude shortage. Chinese refiners have suspended diesel, gasoline, and jet exports; European leaders agreed to release additional diesel stocks after a U.S. request. Three tankers were reported struck in Hormuz this week. Offsetting that, Gulf loadings have recovered as shippers adapt to a high-risk regime, and Saudi Red Sea capacity (Yanbu) has partially offset the strait. Barclays lifted its Q4 Brent forecast to $115 and its 2026 average to $100, citing still-tight physical markets. Near-term range discussed by desks is roughly $98–107, with upside tied to a wider Iran campaign or a successful Houthi squeeze on Red Sea flows, and downside tied to sustained Gulf export recovery and product-stock releases. The June MOU’s failure means the market is no longer pricing a clean reopening."
+      },
+      {
+        "number": 5,
+        "title": "Inflation, Monetary Policy & Bond Markets",
+        "subsections": [
+          {
+            "title": "",
+            "text": "The Fed hiked in September—the first increase in about three years—citing inflation still above target, with oil, defense spending, and AI-related bottlenecks cited as upside risks. Softer late-September PCE then cut odds of an October follow-up (some desks moved their next hike to December); December remains live. The 10-year Treasury has traded around 5% and briefly toward 5.3% in early October, with the curve near multi-year highs after the September CPI/PMI sequence. The BoJ’s 1.25% rate is part of the same global tightening impulse. Gold has eased from early-autumn highs but remains elevated (prints in the low-to-mid $4,000s in late September). The policy mix is restrictive relative to early 2026, but energy and fiscal/defense spending keep the disinflation path uneven."
+          }
+        ],
+        "text": "The Fed hiked in September—the first increase in about three years—citing inflation still above target, with oil, defense spending, and AI-related bottlenecks cited as upside risks. Softer late-September PCE then cut odds of an October follow-up (some desks moved their next hike to December); December remains live. The 10-year Treasury has traded around 5% and briefly toward 5.3% in early October, with the curve near multi-year highs after the September CPI/PMI sequence. The BoJ’s 1.25% rate is part of the same global tightening impulse. Gold has eased from early-autumn highs but remains elevated (prints in the low-to-mid $4,000s in late September). The policy mix is restrictive relative to early 2026, but energy and fiscal/defense spending keep the disinflation path uneven."
+      },
+      {
+        "number": 6,
+        "title": "AI Capex Boom & Supply-Chain Risks",
+        "subsections": [
+          {
+            "title": "",
+            "text": "The spending cycle is moving from GPU scarcity alone into a broader infrastructure bottleneck: high-bandwidth memory, advanced packaging, optics, power, and cooling. Micron’s CEO said this week the firm cannot meet customer demand, that supply will be tighter in 2027–28 than in 2026, and that some contracts run into 2031; first-half fiscal 2027 capex was guided near $25 billion, mostly construction. Industry commentary still frames multi-year AI capex in the multi-trillion-dollar range. DRAM pricing has surged as Samsung, SK Hynix, and Micron prioritize HBM. Power is a binding constraint—Amazon’s nuclear arrangement with Constellation is one marker—alongside packaging and optical-transceiver lead times. Rare earths remain the strategic overlay: China still dominates separation and magnet production; the additional controls are suspended through the January 2027 truce, but spot export volumes to the U.S. and Japan stayed tight through August. Allied magnet capacity (including planned U.S. plants) is a late-decade story, not a 2026 bridge. Concentration risk is therefore dual: East Asian memory and packaging, and Chinese midstream rare earths."
+          }
+        ],
+        "text": "The spending cycle is moving from GPU scarcity alone into a broader infrastructure bottleneck: high-bandwidth memory, advanced packaging, optics, power, and cooling. Micron’s CEO said this week the firm cannot meet customer demand, that supply will be tighter in 2027–28 than in 2026, and that some contracts run into 2031; first-half fiscal 2027 capex was guided near $25 billion, mostly construction. Industry commentary still frames multi-year AI capex in the multi-trillion-dollar range. DRAM pricing has surged as Samsung, SK Hynix, and Micron prioritize HBM. Power is a binding constraint—Amazon’s nuclear arrangement with Constellation is one marker—alongside packaging and optical-transceiver lead times. Rare earths remain the strategic overlay: China still dominates separation and magnet production; the additional controls are suspended through the January 2027 truce, but spot export volumes to the U.S. and Japan stayed tight through August. Allied magnet capacity (including planned U.S. plants) is a late-decade story, not a 2026 bridge. Concentration risk is therefore dual: East Asian memory and packaging, and Chinese midstream rare earths."
+      },
+      {
+        "number": 7,
+        "title": "Interconnections & Monitoring Priorities",
+        "subsections": [
+          {
+            "title": "",
+            "text": "Energy, rates, and the yen are the same shock seen from three angles. Hormuz and Red Sea risk keep Brent near $100, which feeds U.S. and Japanese inflation, which keeps the Fed and BoJ tightening, which supports the dollar and leaves USD/JPY heavy enough that Tokyo and Washington remain on intervention watch. The China truce caps the left-tail rare-earth cutoff through early January and slightly eases non-sensitive tariffs, but it does not loosen the chip, packaging, or power constraints under the AI build-out—and a truce break would hit both magnets and tech simultaneously. U.S. midterm timing is relevant: reporting links further Iran strikes to the post-election window, while a third carrier is already en route."
+          },
+          {
+            "title": "Watchlist (next 1–2 weeks)",
+            "text": "- Hormuz attack tally and any formal U.S. strike decision versus Iran; Houthi/Saudi fighting on the Red Sea coast.\n- Implementation timeline for the $30 billion/$30 billion tariff lists and any rare-earth licensing slippage before the January 2027 date.\n- Tokyo CPI (core expected to reaccelerate) and BoJ communication into the 30 October meeting; USD/JPY behavior near 158–160.\n- Brent holding or losing $100; Chinese fuel-export policy; European diesel-stock releases.\n- October Fed pricing after the next inflation prints; 10-year behavior around 5%.\n- Memory and optics lead times, and any new hyperscaler power or capex revisions. This report can be updated on request."
+          }
+        ],
+        "text": ""
+      }
+    ],
+    "monitoring_priorities": [
+      "Hormuz attack tally and any formal U.S. strike decision versus Iran; Houthi/Saudi fighting on the Red Sea coast.",
+      "Implementation timeline for the $30 billion/$30 billion tariff lists and any rare-earth licensing slippage before the January 2027 date.",
+      "Tokyo CPI (core expected to reaccelerate) and BoJ communication into the 30 October meeting; USD/JPY behavior near 158–160.",
+      "Brent holding or losing $100; Chinese fuel-export policy; European diesel-stock releases.",
+      "October Fed pricing after the next inflation prints; 10-year behavior around 5%.",
+      "Memory and optics lead times, and any new hyperscaler power or capex revisions."
+    ],
+    "outlook": ""
+  },
+  {
     "timestamp": "2026-10-03T20:00:00+00:00",
     "header": "Saturday, October 3, 2026's Report",
     "headline": "Daily macro and geopolitical brief.",
