@@ -1,5 +1,112 @@
 [
   {
+    "timestamp": "2026-10-08T20:00:00+00:00",
+    "header": "Thursday, October 8, 2026's Report",
+    "headline": "Daily Macro & Geopolitical Report.",
+    "summary": "Daily Macro & Geopolitical Report. Figures are the latest available as of the 7 October market close and overnight official reporting.",
+    "sections": [
+      {
+        "number": 1,
+        "title": "Geopolitics – Key Flashpoints",
+        "subsections": [
+          {
+            "title": "U.S.–China",
+            "text": "The late-September Washington state visit produced a thin but stabilizing package. The trade truce first set in South Korea last year was extended, pushing a possible return of triple-digit tariffs and tighter Chinese critical-minerals controls out to early 2027. The Boards of Trade and Investment were operationalized. China committed to import at least 10 million metric tons of U.S. coal in both 2027 and 2028. On 28 September both sides published lists of non-sensitive goods recommended for more favorable tariff treatment covering about $30 billion each way (77 Chinese items; more than 1,600 U.S. products, weighted toward agriculture, seafood, wood, cosmetics, and medical devices). Rare-earth and critical-mineral shipment levels remain a workstream, not a settled outcome. Two-way goods trade was $495 billion in 2025, down 25 percent year on year."
+          },
+          {
+            "title": "U.S.–Iran and the Middle East",
+            "text": "The conflict that began in late February is in its eighth month. A June memorandum on ending the war and reopening Hormuz has expired. Vice President Vance said this week that any deal requires a “meaningful” cut in Iranian enrichment, including an explanation of 60 percent material. An IRGC adviser rejected U.S. claims that Tehran has lost control of Hormuz and said the strait stays restricted until Iranian demands are met. Commercial traffic remains severely constrained: AIS-visible transits are a small fraction of the pre-crisis baseline, even as tanker-tracking firms put recent oil flows through or around the Gulf in a partial recovery (roughly 13 million barrels a day through Hormuz in late September versus about 17 million pre-war, with additional volumes via pipelines and Red Sea ports). Houthi spillover is active. Saudi authorities reported strikes on Najran and Jizan airports (three injured); Houthi media also claimed hits on Riyadh’s King Khalid airport and the Rabigh Aramco refinery. On 7 October Houthis fired missiles and drones at Aden International Airport; one landed near the runway minutes before a Cairo arrival, with no casualties reported. Saudi-backed forces say they are pressing operations around Bab el-Mandeb after earlier Houthi gains toward Perim. Washington has so far offered intelligence rather than direct intervention against the Houthis."
+          },
+          {
+            "title": "Ukraine–Russia",
+            "text": "Overnight 6–7 October Russia launched one of its largest combined strikes of the year: Ukrainian figures cite on the order of 70 missiles (including Iskander, S-400, KN-23, Zircon, and Onyx) and more than 100 drones. At least 25 people were killed, including children, with the heaviest toll in Pryluky (Chernihiv), where a residential block was destroyed. Energy infrastructure, defense-industrial sites, and Odesa port facilities were targeted. Ukraine’s air force reported intercepting roughly 80 percent of jet-powered drones in the wave, above recent averages. Ukraine struck a Liberian-flagged tanker off a Russian Black Sea resort (crew rescued) and an oil facility in Moscow oblast. The Kremlin criticized a French test of an upgraded nuclear-capable system as a “dead end” confrontation strategy."
+          }
+        ],
+        "text": ""
+      },
+      {
+        "number": 2,
+        "title": "Trade Wars & Tariffs",
+        "subsections": [
+          {
+            "title": "",
+            "text": "The operative regime is a managed truce, not a settlement. The early-2027 extension avoids an automatic snap-back of peak tariffs and export controls. The $30 billion / $30 billion lists are recommendations for discussion under the Board of Trade, not implemented cuts. Agricultural market access remains a working group rather than a purchase commitment beyond coal. Sensitive technology, investment screening, and rare earths sit outside the carve-out channel. Near-term tariff risk is lower; structural decoupling and licensing friction remain the baseline."
+          }
+        ],
+        "text": "The operative regime is a managed truce, not a settlement. The early-2027 extension avoids an automatic snap-back of peak tariffs and export controls. The $30 billion / $30 billion lists are recommendations for discussion under the Board of Trade, not implemented cuts. Agricultural market access remains a working group rather than a purchase commitment beyond coal. Sensitive technology, investment screening, and rare earths sit outside the carve-out channel. Near-term tariff risk is lower; structural decoupling and licensing friction remain the baseline."
+      },
+      {
+        "number": 3,
+        "title": "Macro Currency Interventions",
+        "subsections": [
+          {
+            "title": "",
+            "text": "USD/JPY is trading around 158.0–158.2, near the top of the recent range and well above levels that previously drew action. The Bank of Japan raised the overnight rate 25 basis points to 1.25 percent on 18 September (7–2). Markets have since cut odds of an October follow-up; the summary of opinions was read as consistent with a roughly quarterly pace, pointing toward December rather than this month. Tokyo inflation remains above the 2 percent target. Verbal intervention is coordinated. Finance Minister Satsuki Katayama and Treasury Secretary Scott Bessent have restated joint concern about yen undervaluation and orderly markets. FOMC minutes released 7 October confirmed that the late-July yen-support operation was executed by the New York Fed as fiscal agent for the Treasury, not with System Open Market Account funds. The Ministry of Finance has already spent very large sums this cycle; the rate differential versus a Fed that is hiking again is the constraint. Intervention risk rises on a disorderly move through 158–160, but spot is still being driven more by U.S. yields and the energy-import bill than by the policy rate alone."
+          }
+        ],
+        "text": "USD/JPY is trading around 158.0–158.2, near the top of the recent range and well above levels that previously drew action. The Bank of Japan raised the overnight rate 25 basis points to 1.25 percent on 18 September (7–2). Markets have since cut odds of an October follow-up; the summary of opinions was read as consistent with a roughly quarterly pace, pointing toward December rather than this month. Tokyo inflation remains above the 2 percent target. Verbal intervention is coordinated. Finance Minister Satsuki Katayama and Treasury Secretary Scott Bessent have restated joint concern about yen undervaluation and orderly markets. FOMC minutes released 7 October confirmed that the late-July yen-support operation was executed by the New York Fed as fiscal agent for the Treasury, not with System Open Market Account funds. The Ministry of Finance has already spent very large sums this cycle; the rate differential versus a Fed that is hiking again is the constraint. Intervention risk rises on a disorderly move through 158–160, but spot is still being driven more by U.S. yields and the energy-import bill than by the policy rate alone."
+      },
+      {
+        "number": 4,
+        "title": "Energy Markets & Oil Prices",
+        "subsections": [
+          {
+            "title": "",
+            "text": "Brent for December settled 7 October at about $100.20 after trading as high as $102.59; WTI November settled near $88.28. Spot reads later in the session were about $101 Brent and $89 WTI. The Brent–WTI spread remains wide, near $12, consistent with a seaborne disruption that hits waterborne grades harder than Cushing. Gold is around $4,130–$4,135. U.S. retail gasoline is about $4.35 a gallon. Drivers: partial restoration of Gulf exports (flows well below the pre-February peak but far above the spring trough), ongoing ship attacks, Houthi pressure on Red Sea alternatives, and Gulf of Mexico shut-ins (about 0.5 million barrels a day of oil offline from a storm). EIA crude stocks fell 3.2 million barrels to 424.1 million in the week to 2 October, roughly 1 percent above the five-year average. EIA lifted its fourth-quarter Brent forecast to an average of $105. Short-term bias is a $95–110 Brent range while Hormuz stays restricted and inventories do not rebuild. A wider closure, or a successful interdiction of Yanbu/Red Sea liftings, is the upside tail; a credible Hormuz reopening framework is the downside."
+          }
+        ],
+        "text": "Brent for December settled 7 October at about $100.20 after trading as high as $102.59; WTI November settled near $88.28. Spot reads later in the session were about $101 Brent and $89 WTI. The Brent–WTI spread remains wide, near $12, consistent with a seaborne disruption that hits waterborne grades harder than Cushing. Gold is around $4,130–$4,135. U.S. retail gasoline is about $4.35 a gallon. Drivers: partial restoration of Gulf exports (flows well below the pre-February peak but far above the spring trough), ongoing ship attacks, Houthi pressure on Red Sea alternatives, and Gulf of Mexico shut-ins (about 0.5 million barrels a day of oil offline from a storm). EIA crude stocks fell 3.2 million barrels to 424.1 million in the week to 2 October, roughly 1 percent above the five-year average. EIA lifted its fourth-quarter Brent forecast to an average of $105. Short-term bias is a $95–110 Brent range while Hormuz stays restricted and inventories do not rebuild. A wider closure, or a successful interdiction of Yanbu/Red Sea liftings, is the upside tail; a credible Hormuz reopening framework is the downside."
+      },
+      {
+        "number": 5,
+        "title": "Inflation, Monetary Policy & Bond Markets",
+        "subsections": [
+          {
+            "title": "",
+            "text": "The Fed’s preferred gauge showed August headline PCE at 3.4 percent and core at 3.0 percent year on year. The Committee raised the funds rate 25 basis points on 16 September to 3.75–4.00 percent, the first increase in three years, under Chair Kevin Warsh. Minutes published 7 October say most participants judged another increase likely appropriate by year-end; there was little appetite for a long series of hikes. The next decisions are 28 October and 9 December. Futures still price more than one additional rise over coming months. The long end has repriced the oil shock and the fiscal path. The 10-year traded around 5.27–5.32 percent into the 7 October close after touching about 5.36 percent intraday, a 24-year high; the 30-year was near 5.64–5.70 percent. The 2-year is around 4.78–4.80 percent, so the curve is positively sloped by roughly 50 basis points. A Reuters poll of strategists still looks for the 10-year near 5.00 percent by year-end, with risks skewed higher. The ECB raised its three key rates 25 basis points on 10 September; the deposit facility is 2.50 percent. Staff projections put euro-area headline inflation at 3.0 percent in 2026, 2.5 percent in 2027, and 2.1 percent in 2028. August HICP was 3.3 percent, with energy at 14.3 percent. The ECB is not pre-committing to a path; the next impulse still depends on how long the energy shock lasts."
+          }
+        ],
+        "text": "The Fed’s preferred gauge showed August headline PCE at 3.4 percent and core at 3.0 percent year on year. The Committee raised the funds rate 25 basis points on 16 September to 3.75–4.00 percent, the first increase in three years, under Chair Kevin Warsh. Minutes published 7 October say most participants judged another increase likely appropriate by year-end; there was little appetite for a long series of hikes. The next decisions are 28 October and 9 December. Futures still price more than one additional rise over coming months. The long end has repriced the oil shock and the fiscal path. The 10-year traded around 5.27–5.32 percent into the 7 October close after touching about 5.36 percent intraday, a 24-year high; the 30-year was near 5.64–5.70 percent. The 2-year is around 4.78–4.80 percent, so the curve is positively sloped by roughly 50 basis points. A Reuters poll of strategists still looks for the 10-year near 5.00 percent by year-end, with risks skewed higher. The ECB raised its three key rates 25 basis points on 10 September; the deposit facility is 2.50 percent. Staff projections put euro-area headline inflation at 3.0 percent in 2026, 2.5 percent in 2027, and 2.1 percent in 2028. August HICP was 3.3 percent, with energy at 14.3 percent. The ECB is not pre-committing to a path; the next impulse still depends on how long the energy shock lasts."
+      },
+      {
+        "number": 6,
+        "title": "AI Capex Boom & Supply-Chain Risks",
+        "subsections": [
+          {
+            "title": "",
+            "text": "The compute build-out remains the main private-demand offset to tighter policy. Industry tallies put 2026 capital spending by hyperscalers and neoclouds in the AI compute layer above $800 billion. TSMC has raised full-year 2026 U.S.-dollar revenue-growth guidance to just over 40 percent, with pricing power visible in foundry and advanced packaging; third-quarter revenue guidance was $44.6–45.8 billion. Concentration is unchanged and material: Nvidia supplies the large majority of training accelerators; TSMC accounts for about 90 percent of leading-edge advanced packaging; ASML is the sole EUV supplier; a handful of wafer makers dominate polished silicon. On materials, China still refines roughly 90 percent of rare earths used in data-center motors and magnets and about 99 percent of gallium. The post-summit channel on rare-earth shipments is the policy link between the trade truce and the capex cycle. Power, transformers, and advanced packaging remain the physical bottlenecks even if chip design orders stay strong. A relapse in mineral licensing would hit the build-out faster than a modest Fed hike."
+          }
+        ],
+        "text": "The compute build-out remains the main private-demand offset to tighter policy. Industry tallies put 2026 capital spending by hyperscalers and neoclouds in the AI compute layer above $800 billion. TSMC has raised full-year 2026 U.S.-dollar revenue-growth guidance to just over 40 percent, with pricing power visible in foundry and advanced packaging; third-quarter revenue guidance was $44.6–45.8 billion. Concentration is unchanged and material: Nvidia supplies the large majority of training accelerators; TSMC accounts for about 90 percent of leading-edge advanced packaging; ASML is the sole EUV supplier; a handful of wafer makers dominate polished silicon. On materials, China still refines roughly 90 percent of rare earths used in data-center motors and magnets and about 99 percent of gallium. The post-summit channel on rare-earth shipments is the policy link between the trade truce and the capex cycle. Power, transformers, and advanced packaging remain the physical bottlenecks even if chip design orders stay strong. A relapse in mineral licensing would hit the build-out faster than a modest Fed hike."
+      },
+      {
+        "number": 7,
+        "title": "Interconnections & Monitoring Priorities",
+        "subsections": [
+          {
+            "title": "",
+            "text": "The same shock is running through several prices. Restricted Hormuz and Houthi pressure on the Red Sea keep Brent near $100, which holds U.S. and euro-area inflation above target and forces the Fed and ECB to stay restrictive. Higher U.S. yields widen the gap versus Japan, push USD/JPY toward 158, and raise the odds of another joint intervention that does not fix the differential. The China truce lowers the probability of a simultaneous rare-earth and tariff shock, which is what the AI capex boom needs in order to keep offsetting tighter financial conditions. A break in either Hormuz talks or the rare-earth workstream would tighten both energy and tech supply at once."
+          },
+          {
+            "title": "Watchlist",
+            "text": "- Hormuz transit and attack notices; any new U.S.–Iran enrichment proposal before the October Fed meeting.\n- Houthi strikes on Saudi or Red Sea liftings, and coalition moves at Bab el-Mandeb.\n- Ukraine energy-grid damage and Black Sea tanker risk into winter.\n- 28 October FOMC and whether long-end yields hold above 5.25 percent.\n- USD/JPY through 158–160 and any Ministry of Finance or Treasury confirmation of action.\n- Implementation details, if any, on the $30 billion tariff lists and rare-earth shipment data.\n- EIA inventories (next report 14 October) and Gulf of Mexico restart. This report can be updated on request."
+          }
+        ],
+        "text": ""
+      }
+    ],
+    "monitoring_priorities": [
+      "Hormuz transit and attack notices; any new U.S.–Iran enrichment proposal before the October Fed meeting.",
+      "Houthi strikes on Saudi or Red Sea liftings, and coalition moves at Bab el-Mandeb.",
+      "Ukraine energy-grid damage and Black Sea tanker risk into winter.",
+      "28 October FOMC and whether long-end yields hold above 5.25 percent.",
+      "USD/JPY through 158–160 and any Ministry of Finance or Treasury confirmation of action.",
+      "Implementation details, if any, on the $30 billion tariff lists and rare-earth shipment data.",
+      "EIA inventories (next report 14 October) and Gulf of Mexico restart."
+    ],
+    "outlook": ""
+  },
+  {
     "timestamp": "2026-10-07T20:00:00+00:00",
     "header": "Wednesday, October 7, 2026's Report",
     "headline": "I'll pull the latest data across geopolitics, trade, FX, energy, policy, and AI supply chains, then assemble the 2026-10-07 report.",
