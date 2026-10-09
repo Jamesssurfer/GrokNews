@@ -1,5 +1,109 @@
 [
   {
+    "timestamp": "2026-10-09T20:00:00+00:00",
+    "header": "Friday, October 9, 2026's Report",
+    "headline": "Daily macro and geopolitical brief.",
+    "summary": "Daily macro and geopolitical brief. Market levels are primarily the October 8 close; Asia is still opening.",
+    "sections": [
+      {
+        "number": 1,
+        "title": "Geopolitics – Key Flashpoints",
+        "subsections": [
+          {
+            "title": "U.S.–China",
+            "text": "The late-September Trump–Xi state visit remains the operative framework. Treasury Secretary Scott Bessent said the Busan trade truce, due to expire on November 10, was extended to January 10. Both sides then published reciprocal lists of nonsensitive goods worth about $30 billion each for tariff relief, and the White House said China will import at least 10 million metric tons of U.S. coal in 2027 and again in 2028. Leaders confirmed follow-up meetings on the sidelines of APEC in Shenzhen in November and the G20 in Miami in December. Delivery of rare earths and non-soybean farm purchases is still running behind prior pledges."
+          },
+          {
+            "title": "U.S.–Iran and the Middle East",
+            "text": "The war that began on February 28 is still setting the energy risk premium. Maritime sources told Reuters that Iran attacked at least 12 tankers in and around Hormuz between September 28 and October 5, the highest weekly total since the war started. Kpler data cited by CNBC put Hormuz crude exits at about 9.5 million barrels a day in the week ended Tuesday, roughly 30% below prewar norms, even as pipeline workarounds kept broader Middle East flows closer to normal. President Trump said the U.S. would not attack Iran before the November midterms, which took some of the session’s oil spike off the highs. Houthis continued to press in Taiz, cutting the last government ground line into Taiz City, and struck Aden airport; Saudi authorities reported strikes on Najran and Jizan airports. Washington is still limiting itself to intelligence support for Saudi operations rather than direct strikes."
+          },
+          {
+            "title": "Ukraine–Russia",
+            "text": "The ground war is a stalemate with local Ukrainian gains. A monthslong counteroffensive, Operation Vivaldi, has clawed back territory in the northern Donbas and made September Russia’s worst month for net gains inside Ukraine since June 2023, according to Black Bird Group tracking cited by the New York Times. Moscow has shifted weight onto a winter energy campaign: late-September strikes hit Kyiv-region power plants, and October 8 brought deadly strikes on buses in Kramatorsk and an apartment block in Pryluky. Secretary of State Marco Rubio said the same day that the deadlock could spill beyond Ukraine’s borders if either side escalates. Ukraine continues to reject land-for-peace proposals covering territory Russia has not taken."
+          }
+        ],
+        "text": ""
+      },
+      {
+        "number": 2,
+        "title": "Trade Wars & Tariffs",
+        "subsections": [
+          {
+            "title": "",
+            "text": "The truce is intact but narrow. Under the current pause, China-specific tariffs sit near 30% on Chinese goods and about 10% on U.S. goods, well below last year’s triple-digit peak. The February Supreme Court ruling struck down the emergency-tariff regime, including the China fentanyl duties; the administration responded with a temporary 10% global duty under a different statute and, in July, added 12.5% duties on goods from 60 partners over forced-labor claims. The $60 billion “30-for-30” lists cover toys, holiday goods, appliances, and car seats on the U.S. side, and U.S. farm products, medical devices, and coal on the Chinese side. Exact rates and effective dates are still subject to domestic procedures. An agricultural working group is due to meet before year-end. The open variables into January 10 are rare-earth flows, the soybean and broader farm shortfalls, and whether the APEC or G20 meetings produce anything larger than another extension."
+          }
+        ],
+        "text": "The truce is intact but narrow. Under the current pause, China-specific tariffs sit near 30% on Chinese goods and about 10% on U.S. goods, well below last year’s triple-digit peak. The February Supreme Court ruling struck down the emergency-tariff regime, including the China fentanyl duties; the administration responded with a temporary 10% global duty under a different statute and, in July, added 12.5% duties on goods from 60 partners over forced-labor claims. The $60 billion “30-for-30” lists cover toys, holiday goods, appliances, and car seats on the U.S. side, and U.S. farm products, medical devices, and coal on the Chinese side. Exact rates and effective dates are still subject to domestic procedures. An agricultural working group is due to meet before year-end. The open variables into January 10 are rare-earth flows, the soybean and broader farm shortfalls, and whether the APEC or G20 meetings produce anything larger than another extension."
+      },
+      {
+        "number": 3,
+        "title": "Macro Currency Interventions",
+        "subsections": [
+          {
+            "title": "",
+            "text": "USD/JPY is back in the high-157s to around 158.50 after a post-intervention squeeze faded. The Bank of Japan raised its policy rate 25 basis points to 1.25% in September, a 31-year high, and board members have kept the door open to more hikes; real wages rose for an eighth straight month in August. That has not closed the gap with the Fed’s 3.75–4.00% range. Tokyo and the U.S. Treasury have already conducted coordinated yen-buying, including a record single-session MOF operation of about ¥8.45 trillion, and Finance Minister Satsuki Katayama and Bessent have restated that they will cooperate against disorderly weakness. Verbal risk is capping rallies through 158–160, but the carry and the oil-driven rise in U.S. yields are still the dominant drivers. Japan’s energy import bill from Hormuz risk works against the intervention."
+          }
+        ],
+        "text": "USD/JPY is back in the high-157s to around 158.50 after a post-intervention squeeze faded. The Bank of Japan raised its policy rate 25 basis points to 1.25% in September, a 31-year high, and board members have kept the door open to more hikes; real wages rose for an eighth straight month in August. That has not closed the gap with the Fed’s 3.75–4.00% range. Tokyo and the U.S. Treasury have already conducted coordinated yen-buying, including a record single-session MOF operation of about ¥8.45 trillion, and Finance Minister Satsuki Katayama and Bessent have restated that they will cooperate against disorderly weakness. Verbal risk is capping rallies through 158–160, but the carry and the oil-driven rise in U.S. yields are still the dominant drivers. Japan’s energy import bill from Hormuz risk works against the intervention."
+      },
+      {
+        "number": 4,
+        "title": "Energy Markets & Oil Prices",
+        "subsections": [
+          {
+            "title": "",
+            "text": "October 8 settlement: WTI November $91.49, up $3.21 or 3.64%; Brent December $104.28, up $4.08 or 4.07%. The Brent–WTI spread is about $12–13, consistent with a seaborne disruption hitting Brent harder than U.S. landlocked crude. Brent is roughly 44% above a pre-crisis February baseline near $72. Drivers were the Hormuz tanker attacks and Hurricane Isaias, which shut in about 500,000 barrels a day, or roughly 25% of Gulf of Mexico output. Earlier in the week prices had eased after the IEA moved to accelerate strategic-stock releases and prioritize diesel. U.S. commercial crude inventories were last reported down 3.2 million barrels to 424.1 million for the week ending October 2. Natural gas settled near $3.13/MMBtu. Near-term path depends on whether Hormuz transits stay depressed, how fast Gulf production returns, and whether Trump’s pre-midterm restraint holds. A sustained break of WTI above the low-$93s would reopen the $100 area; a fade in attacks plus SPR barrels would pull Brent back toward $100."
+          }
+        ],
+        "text": "October 8 settlement: WTI November $91.49, up $3.21 or 3.64%; Brent December $104.28, up $4.08 or 4.07%. The Brent–WTI spread is about $12–13, consistent with a seaborne disruption hitting Brent harder than U.S. landlocked crude. Brent is roughly 44% above a pre-crisis February baseline near $72. Drivers were the Hormuz tanker attacks and Hurricane Isaias, which shut in about 500,000 barrels a day, or roughly 25% of Gulf of Mexico output. Earlier in the week prices had eased after the IEA moved to accelerate strategic-stock releases and prioritize diesel. U.S. commercial crude inventories were last reported down 3.2 million barrels to 424.1 million for the week ending October 2. Natural gas settled near $3.13/MMBtu. Near-term path depends on whether Hormuz transits stay depressed, how fast Gulf production returns, and whether Trump’s pre-midterm restraint holds. A sustained break of WTI above the low-$93s would reopen the $100 area; a fade in attacks plus SPR barrels would pull Brent back toward $100."
+      },
+      {
+        "number": 5,
+        "title": "Inflation, Monetary Policy & Bond Markets",
+        "subsections": [
+          {
+            "title": "",
+            "text": "August CPI rose 0.4% on the month and 3.4% year on year; core CPI rose 0.3%. Fed staff put August total PCE at 3.8% and core PCE at 3.4%. The FOMC on September 15–16 raised the funds range 25 basis points to 3.75–4.00%, the first hike in three years, by a 12–0 vote. Minutes released October 7 showed most participants judged another increase likely appropriate by year-end, with inflation risks tilted up from energy and, in some remarks, AI-related investment. Markets have marked down an October 27–28 follow-up hike to roughly 17%, while December remains the base case; Governor Waller said more hikes are likely but the pace is flexible. The 10-year yield is around 5.27–5.28% and the 30-year near 5.64%, both at multi-decade highs, with the term premium at its highest since 2014. Initial claims were 197,000. The ECB deposit rate is 2.50% after two summer hikes; September staff see euro-area inflation averaging 3.0% in 2026. Accounts and speeches on October 8 pointed to a hold at the next meeting and a possible December move, with energy the main upside risk and core more benign."
+          }
+        ],
+        "text": "August CPI rose 0.4% on the month and 3.4% year on year; core CPI rose 0.3%. Fed staff put August total PCE at 3.8% and core PCE at 3.4%. The FOMC on September 15–16 raised the funds range 25 basis points to 3.75–4.00%, the first hike in three years, by a 12–0 vote. Minutes released October 7 showed most participants judged another increase likely appropriate by year-end, with inflation risks tilted up from energy and, in some remarks, AI-related investment. Markets have marked down an October 27–28 follow-up hike to roughly 17%, while December remains the base case; Governor Waller said more hikes are likely but the pace is flexible. The 10-year yield is around 5.27–5.28% and the 30-year near 5.64%, both at multi-decade highs, with the term premium at its highest since 2014. Initial claims were 197,000. The ECB deposit rate is 2.50% after two summer hikes; September staff see euro-area inflation averaging 3.0% in 2026. Accounts and speeches on October 8 pointed to a hold at the next meeting and a possible December move, with energy the main upside risk and core more benign."
+      },
+      {
+        "number": 6,
+        "title": "AI Capex Boom & Supply-Chain Risks",
+        "subsections": [
+          {
+            "title": "",
+            "text": "The spending cycle is intact and the bottlenecks are physical. TSMC reported third-quarter revenue of about NT$1.49 trillion, roughly $48.4 billion, up 51% year on year; advanced-node capacity is described as booked through 2028, with Nvidia holding a large share of CoWoS packaging. On October 8, GlobalFoundries announced a $2 billion, five-year deal to make silicon interposers for TSMC at Malta, New York — pitched as the first U.S. source of that packaging component — with volume only from the first half of 2028. BNP Paribas maps AI infrastructure investment approaching $1 trillion a year, about half in chips and servers, 20% in power, and 15% in networking. The binding constraints are advanced logic, packaging, high-bandwidth memory, lithography tools, grid interconnections, and indium-phosphide optics. Rare earths remain China’s leverage inside the truce: U.S. officials have said deliveries are lagging. Power, not model demand, is the nearer macro constraint, and it feeds the same inflation and yield pressure visible in the Fed minutes."
+          }
+        ],
+        "text": "The spending cycle is intact and the bottlenecks are physical. TSMC reported third-quarter revenue of about NT$1.49 trillion, roughly $48.4 billion, up 51% year on year; advanced-node capacity is described as booked through 2028, with Nvidia holding a large share of CoWoS packaging. On October 8, GlobalFoundries announced a $2 billion, five-year deal to make silicon interposers for TSMC at Malta, New York — pitched as the first U.S. source of that packaging component — with volume only from the first half of 2028. BNP Paribas maps AI infrastructure investment approaching $1 trillion a year, about half in chips and servers, 20% in power, and 15% in networking. The binding constraints are advanced logic, packaging, high-bandwidth memory, lithography tools, grid interconnections, and indium-phosphide optics. Rare earths remain China’s leverage inside the truce: U.S. officials have said deliveries are lagging. Power, not model demand, is the nearer macro constraint, and it feeds the same inflation and yield pressure visible in the Fed minutes."
+      },
+      {
+        "number": 7,
+        "title": "Interconnections & Monitoring Priorities",
+        "subsections": [
+          {
+            "title": "",
+            "text": "Hormuz and the Houthi campaign are the common driver. They lift Brent, widen the Brent–WTI spread, raise the odds of another Fed and ECB hike, keep the 10-year pinned near 5.3%, and undermine yen intervention by fattening Japan’s import bill. The U.S.–China truce caps the tail risk of a rare-earth cutoff that would hit both autos and the AI packaging chain, but the January 10 deadline sits on top of an unresolved minerals dispute. AI capex supports equities and power demand while adding a second, slower inflation channel that central banks are starting to name. Ukraine’s winter energy war is a separate European gas and power risk, not yet the main oil story."
+          },
+          {
+            "title": "Watchlist",
+            "text": "- Daily: Hormuz transit and tanker-attack counts; Gulf of Mexico shut-ins as Isaias moves inland; USD/JPY versus 158–160 and any MOF/Treasury comments.\n- This week: U.S. CPI (intervention and Fed-path sensitivity); EIA inventories Wednesday, October 14; Houthi lines around Taiz and Bab el-Mandeb; Russian strikes on Ukrainian heat and power.\n- Into late October: FOMC October 27–28 and the December hike pricing; ECB hold-versus-hike rhetoric; any concrete timetable for the $60 billion tariff lists.\n- Into November–January: APEC Shenzhen and G20 Miami; January 10 truce expiry; rare-earth shipment data versus the Busan pledge; China farm-purchase tracking. This report can be updated on request."
+          }
+        ],
+        "text": ""
+      }
+    ],
+    "monitoring_priorities": [
+      "Daily: Hormuz transit and tanker-attack counts; Gulf of Mexico shut-ins as Isaias moves inland; USD/JPY versus 158–160 and any MOF/Treasury comments.",
+      "This week: U.S. CPI (intervention and Fed-path sensitivity); EIA inventories Wednesday, October 14; Houthi lines around Taiz and Bab el-Mandeb; Russian strikes on Ukrainian heat and power.",
+      "Into late October: FOMC October 27–28 and the December hike pricing; ECB hold-versus-hike rhetoric; any concrete timetable for the $60 billion tariff lists.",
+      "Into November–January: APEC Shenzhen and G20 Miami; January 10 truce expiry; rare-earth shipment data versus the Busan pledge; China farm-purchase tracking."
+    ],
+    "outlook": ""
+  },
+  {
     "timestamp": "2026-10-08T20:00:00+00:00",
     "header": "Thursday, October 8, 2026's Report",
     "headline": "Daily Macro & Geopolitical Report.",
