@@ -210,10 +210,19 @@ def _parse_sections(text):
 
 
 def _monitoring_priorities(text):
-    """Extract watchlist / highest-priority indicator bullets."""
+    """Extract watchlist / highest-priority indicator bullets.
+
+    Handles:
+      **Watchlist (daily / this week)**
+      - item
+      **Daily/weekly watchlist**:
+      - item
+      **Highest-priority ...**
+      - item
+    """
     items = []
     m = re.search(
-        r'\*\*(?:Highest-priority[^*]*|Watchlist[^*]*)\*\*\s*\n((?:\s*[-*•].+\n?)+)',
+        r'\*\*(?:Highest-priority[^*]*|Daily/?weekly watchlist|Watchlist[^*]*)\*\*\s*:?\s*\n((?:\s*[-*•].+\n?)+)',
         text,
         re.IGNORECASE,
     )
