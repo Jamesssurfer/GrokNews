@@ -13,7 +13,7 @@
     --text:#E6E8EB; --muted:#8B93A1; --amber:#FF7A29; --teal:#3DDC97; --red:#FF5C5C; --blue:#5B9DFF; --purple:#B794F4;
   }
   *{box-sizing:border-box}
-  body{background:var(--bg); color:var(--text); font-family:'Inter',sans-serif; -webkit-font-smoothing:antialiased;}
+  body{background:var(--bg); color:var(--text); font-family:'Inter',sans-serif; -webkit-font-smoothing:antialiased; font-size:16px;}
   .mono{font-family:'IBM Plex Mono',monospace;}
   .panel{background:var(--panel); border:1px solid var(--line);}
   .hairline{border-color:var(--line);}
@@ -30,6 +30,12 @@
   details > summary::-webkit-details-marker{display:none;}
   details[open] .chev{transform:rotate(90deg);}
   ::-webkit-scrollbar{width:8px;} ::-webkit-scrollbar-thumb{background:var(--line); border-radius:4px;}
+  /* Readable body copy — white, slightly larger, comfortable line height */
+  .body-text{color:#F2F4F7; font-size:15.5px; line-height:1.65;}
+  .body-text p{margin:0 0 0.75em 0;}
+  .body-text p:last-child{margin-bottom:0;}
+  .sub-title{color:#FFFFFF; font-size:15.5px; font-weight:600; line-height:1.4;}
+  .sec-title{font-size:14.5px; font-weight:600; letter-spacing:0.02em;}
   @media (prefers-reduced-motion: reduce){ .live-dot, .row-enter { animation: none; } }
 </style>
 </head>
@@ -141,17 +147,43 @@
     } catch { return iso; }
   }
 
+  // Break long prose into short paragraphs (2–3 sentences each) for easier reading.
+  function paragraphize(text) {
+    if (!text) return '';
+    // Protect common abbreviations so sentence splits don't break on them
+    let t = String(text);
+    const abbrs = ['U.S.', 'U.K.', 'U.N.', 'E.U.', 'e.g.', 'i.e.', 'vs.', 'Mr.', 'Mrs.', 'Ms.', 'Dr.', 'C$', 'IRGC', 'APEC', 'G20', 'BOJ', 'ECB', 'Fed'];
+    abbrs.forEach((a, i) => { t = t.split(a).join(`__ABBR${i}__`); });
+    // Split on sentence enders followed by space + capital / quote
+    const raw = t.split(/(?<=[.!?])\s+(?=[A-Z"“])/);
+    const sentences = raw.map(s => {
+      let out = s.trim();
+      abbrs.forEach((a, i) => { out = out.split(`__ABBR${i}__`).join(a); });
+      return out;
+    }).filter(Boolean);
+
+    if (sentences.length <= 2) {
+      return `<p>${escapeHtml(sentences.join(' '))}</p>`;
+    }
+    const chunks = [];
+    for (let i = 0; i < sentences.length; i += 2) {
+      chunks.push(sentences.slice(i, i + 2).join(' '));
+    }
+    return chunks.map(c => `<p>${escapeHtml(c)}</p>`).join('');
+  }
+
   function subsectionsHTML(subs) {
     if (!subs || !subs.length) return '';
     return subs.map(s => {
+      const body = paragraphize(s.text);
       if (s.title) {
         return `
-          <div class="mt-2.5">
-            <div class="text-[14px] font-medium text-[var(--text)]">${escapeHtml(s.title)}</div>
-            <div class="text-[13px] text-[var(--muted)] mt-0.5 leading-relaxed">${escapeHtml(s.text)}</div>
+          <div class="mt-3 pt-3" style="border-top:1px solid var(--line)">
+            <div class="sub-title mb-1.5">${escapeHtml(s.title)}</div>
+            <div class="body-text">${body}</div>
           </div>`;
       }
-      return `<div class="text-[13px] text-[var(--muted)] mt-1 leading-relaxed">${escapeHtml(s.text)}</div>`;
+      return `<div class="body-text mt-2">${body}</div>`;
     }).join('');
   }
 
@@ -161,10 +193,10 @@
       const color = sectionColor(sec.title);
       const body = sec.subsections && sec.subsections.length
         ? subsectionsHTML(sec.subsections)
-        : (sec.text ? `<div class="text-[13px] text-[var(--muted)] leading-relaxed">${escapeHtml(sec.text)}</div>` : '');
+        : (sec.text ? `<div class="body-text mt-2">${paragraphize(sec.text)}</div>` : '');
       return `
-        <div class="mt-3 panel rounded-lg p-3 border-l-2" style="border-left-color:${color}">
-          <div class="mono text-[13px] font-medium" style="color:${color}">
+        <div class="mt-4 panel rounded-lg p-4 border-l-2" style="border-left-color:${color}">
+          <div class="mono sec-title" style="color:${color}">
             ${sec.number ? sec.number + '. ' : ''}${escapeHtml(sec.title)}
           </div>
           ${body}
@@ -175,10 +207,10 @@
   function monitoringHTML(items) {
     if (!items || !items.length) return '';
     return `
-      <div class="mt-3">
-        <div class="mono text-[13px] uppercase tracking-wide text-[var(--amber)] mb-1.5">Highest-Priority Indicators</div>
-        <ul class="space-y-1">
-          ${items.map(i => `<li class="text-[13px] text-[var(--muted)] leading-snug">· ${escapeHtml(i)}</li>`).join('')}
+      <div class="mt-4 panel rounded-lg p-4">
+        <div class="mono sec-title text-[var(--amber)] mb-2">Daily / Weekly Watchlist</div>
+        <ul class="space-y-2">
+          ${items.map(i => `<li class="body-text flex gap-2"><span class="text-[var(--amber)] shrink-0">·</span><span>${escapeHtml(i)}</span></li>`).join('')}
         </ul>
       </div>`;
   }
@@ -186,28 +218,28 @@
   function outlookHTML(outlook) {
     if (!outlook) return '';
     return `
-      <div class="mt-3 panel rounded-lg p-3 border-l-2" style="border-left-color:var(--teal)">
-        <div class="mono text-[12px] uppercase tracking-wide text-[var(--teal)] mb-1">Outlook Summary</div>
-        <div class="text-[14px] text-[var(--text)] leading-relaxed">${escapeHtml(outlook)}</div>
+      <div class="mt-4 panel rounded-lg p-4 border-l-2" style="border-left-color:var(--teal)">
+        <div class="mono sec-title text-[var(--teal)] mb-2">Outlook Summary</div>
+        <div class="body-text">${paragraphize(outlook)}</div>
       </div>`;
   }
 
   function rowHTML(item, animate) {
     return `
-      <div class="panel rounded-lg p-4 flex gap-3 items-start${animate ? ' row-enter' : ''}">
+      <div class="panel rounded-lg p-5 flex gap-3 items-start${animate ? ' row-enter' : ''}">
         <div class="w-1 self-stretch rounded-full" style="background:var(--red)"></div>
         <div class="flex-1 min-w-0">
-          <div class="flex items-center gap-2 mb-0.5 flex-wrap">
+          <div class="flex items-center gap-2 mb-1 flex-wrap">
             <span class="mono text-[13px] text-[var(--muted)]">${formatTimestamp(item.timestamp)} UTC</span>
           </div>
-          <div class="text-[19px] font-semibold leading-snug">${escapeHtml(item.header)}</div>
-          ${item.headline ? `<div class="text-[14px] text-[var(--muted)] mt-1 leading-relaxed">${escapeHtml(item.headline)}</div>` : ''}
+          <div class="text-[22px] font-semibold leading-snug text-white">${escapeHtml(item.header)}</div>
+          ${item.headline ? `<div class="body-text mt-1.5 opacity-90">${escapeHtml(item.headline)}</div>` : ''}
           ${item.summary && item.summary !== item.headline
-            ? `<div class="text-[13px] text-[var(--muted)] mt-2 leading-relaxed opacity-90">${escapeHtml(item.summary)}</div>`
+            ? `<div class="body-text mt-2 opacity-85">${paragraphize(item.summary)}</div>`
             : ''}
 
-          <details class="mt-3" open>
-            <summary class="mono text-[13px] uppercase tracking-wide text-[var(--muted)] hover:text-[var(--text)]">
+          <details class="mt-4" open>
+            <summary class="mono text-[13px] uppercase tracking-wide text-[var(--muted)] hover:text-white">
               <span class="chev inline-block transition-transform">▸</span> Full brief · ${ (item.sections || []).length } sections
             </summary>
             ${sectionsHTML(item.sections)}
