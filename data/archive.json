@@ -1,6 +1,97 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-10-16T20:00:00+00:00",
+      "header": "Friday, October 16, 2026's Report",
+      "headline": "Daily macro and geopolitical brief.",
+      "summary": "Daily macro and geopolitical brief.",
+      "sections": [
+        {
+          "number": 1,
+          "title": "Geopolitics – Key Flashpoints",
+          "subsections": [
+            {
+              "title": "",
+              "text": "U.S.-China relations remain in a managed détente following the late-September Washington summit. Leaders operationalized Boards of Trade and Investment, advanced a $30 billion reciprocal non-sensitive goods tariff framework, established a Super Intelligence (SI) dialogue with a November round, and agreed on crisis-communications channels and shared positions that Iran should not obtain a nuclear weapon and that no party should impose tolls on international waterways. Further meetings are scheduled for China’s APEC in Shenzhen (November) and the U.S.-hosted G20 in Miami (December). Progress on Taiwan, advanced technology, rare earths, and broader strategic balance remains limited; rhetoric emphasizes “strategic stability” and mutually reinforcing national goals. The U.S.-Israel-Iran conflict (ongoing since late February, roughly Day 229 as of mid-October) continues with intermittent strikes and no durable settlement after expired MOUs and failed talks. Shipping in the Strait of Hormuz faces persistent risks of “indiscriminate” attacks. Houthis (Iran-aligned) have escalated against Saudi Arabia and Yemeni government positions: multiple strikes on King Khalid International Airport in Riyadh (dozens of incidents this month, with significant casualties), Aramco facilities (including limited damage in Dhahran), and the presidential palace complex in Aden. Saudi-led forces have responded with airstrikes on Houthi fuel and storage sites. Trump has criticized the Houthis, noted possible Iranian motives linked to oil prices ahead of U.S. midterms, and left open U.S. involvement or Turkish assistance; Saudi interceptor stocks are reported under pressure. Yemeni government forces have made some Red Sea coastal gains. Ukraine-Russia fighting is on day ~1,695. Zelenskyy declared Ukraine “done” with Trump’s unilateral “energy ceasefire” after Russia continued strikes on Ukrainian power infrastructure (leaving hundreds of thousands without power). Kyiv resumed drone/missile attacks on Russian refineries (e.g., Ryazan fire reported); Putin downplayed damage and vowed response. Ukrainian forces reported modest gains in a Donetsk counteroffensive. U.S. support strains include intelligence-sharing gaps and Starlink restrictions affecting drone operations. Intensity remains high, with large Russian drone/missile barrages and Ukrainian long-range strikes."
+            }
+          ],
+          "text": "U.S.-China relations remain in a managed détente following the late-September Washington summit. Leaders operationalized Boards of Trade and Investment, advanced a $30 billion reciprocal non-sensitive goods tariff framework, established a Super Intelligence (SI) dialogue with a November round, and agreed on crisis-communications channels and shared positions that Iran should not obtain a nuclear weapon and that no party should impose tolls on international waterways. Further meetings are scheduled for China’s APEC in Shenzhen (November) and the U.S.-hosted G20 in Miami (December). Progress on Taiwan, advanced technology, rare earths, and broader strategic balance remains limited; rhetoric emphasizes “strategic stability” and mutually reinforcing national goals. The U.S.-Israel-Iran conflict (ongoing since late February, roughly Day 229 as of mid-October) continues with intermittent strikes and no durable settlement after expired MOUs and failed talks. Shipping in the Strait of Hormuz faces persistent risks of “indiscriminate” attacks. Houthis (Iran-aligned) have escalated against Saudi Arabia and Yemeni government positions: multiple strikes on King Khalid International Airport in Riyadh (dozens of incidents this month, with significant casualties), Aramco facilities (including limited damage in Dhahran), and the presidential palace complex in Aden. Saudi-led forces have responded with airstrikes on Houthi fuel and storage sites. Trump has criticized the Houthis, noted possible Iranian motives linked to oil prices ahead of U.S. midterms, and left open U.S. involvement or Turkish assistance; Saudi interceptor stocks are reported under pressure. Yemeni government forces have made some Red Sea coastal gains. Ukraine-Russia fighting is on day ~1,695. Zelenskyy declared Ukraine “done” with Trump’s unilateral “energy ceasefire” after Russia continued strikes on Ukrainian power infrastructure (leaving hundreds of thousands without power). Kyiv resumed drone/missile attacks on Russian refineries (e.g., Ryazan fire reported); Putin downplayed damage and vowed response. Ukrainian forces reported modest gains in a Donetsk counteroffensive. U.S. support strains include intelligence-sharing gaps and Starlink restrictions affecting drone operations. Intensity remains high, with large Russian drone/missile barrages and Ukrainian long-range strikes."
+        },
+        {
+          "number": 2,
+          "title": "Trade Wars & Tariffs",
+          "subsections": [
+            {
+              "title": "",
+              "text": "The Busan-framework trade truce was extended two months to 10 January 2027. Under the Board of Trade, both sides identified ~$30 billion in non-sensitive goods each for more favorable (largely MFN-level) tariff treatment—U.S. exports include certain agricultural goods, seafood, wood, cosmetics, and medical devices (soybeans notably omitted); Chinese exports include toys, small appliances, holiday items, and car seats. Overall U.S. tariff rates on Chinese goods remain elevated (reported around 47%). Reciprocal shipping fees linked to Section 301 and Chinese measures have been suspended for further dialogue. Rare-earths and critical-minerals arrangements from prior agreements are being maintained. No comprehensive deal has been reached; soybeans, chips, and broader market access remain outstanding."
+            }
+          ],
+          "text": "The Busan-framework trade truce was extended two months to 10 January 2027. Under the Board of Trade, both sides identified ~$30 billion in non-sensitive goods each for more favorable (largely MFN-level) tariff treatment—U.S. exports include certain agricultural goods, seafood, wood, cosmetics, and medical devices (soybeans notably omitted); Chinese exports include toys, small appliances, holiday items, and car seats. Overall U.S. tariff rates on Chinese goods remain elevated (reported around 47%). Reciprocal shipping fees linked to Section 301 and Chinese measures have been suspended for further dialogue. Rare-earths and critical-minerals arrangements from prior agreements are being maintained. No comprehensive deal has been reached; soybeans, chips, and broader market access remain outstanding."
+        },
+        {
+          "number": 3,
+          "title": "Macro Currency Interventions",
+          "subsections": [
+            {
+              "title": "",
+              "text": "USD/JPY trades near 158 (recent closes ~157.98–158.11), with verbal warnings from Japanese Finance Minister Katayama that authorities (with U.S. coordination following the July joint intervention) are prepared to act again if needed. Prior summer interventions were large; markets continue to treat levels near 160 as a sensitive zone. The BOJ raised rates to 1.25% in September (highest since the mid-1990s) but is reported reluctant on a consecutive October hike, with markets pricing a high probability of a December move. Broader G10 FX has seen dollar strength tempered by falling U.S. yields; intervention risk remains a key near-term floor for the yen."
+            }
+          ],
+          "text": "USD/JPY trades near 158 (recent closes ~157.98–158.11), with verbal warnings from Japanese Finance Minister Katayama that authorities (with U.S. coordination following the July joint intervention) are prepared to act again if needed. Prior summer interventions were large; markets continue to treat levels near 160 as a sensitive zone. The BOJ raised rates to 1.25% in September (highest since the mid-1990s) but is reported reluctant on a consecutive October hike, with markets pricing a high probability of a December move. Broader G10 FX has seen dollar strength tempered by falling U.S. yields; intervention risk remains a key near-term floor for the yen."
+        },
+        {
+          "number": 4,
+          "title": "Energy Markets & Oil Prices",
+          "subsections": [
+            {
+              "title": "",
+              "text": "Brent settled near $105.7–105.9 and WTI near $96–97 on 15 October after mixed sessions. Prices remain elevated relative to pre-conflict levels due to Middle East shipping risks (Hormuz attacks, vessel sinkings), Houthi-Saudi exchanges, and residual Russian supply constraints, offset by potential U.S. easing of sanctions on parts of the “shadow fleet,” large U.S. crude inventory draws, recovering Persian Gulf exports (IEA noted ~75% of pre-war levels in September), and diesel-market tightness. EIA STEO projects Brent averaging ~$105 in Q4 2026 before easing. Short-term risks are skewed to the upside on further escalation around Hormuz, Saudi energy assets, or Ukrainian strikes on Russian refining; downside catalysts include sanctions relief or sustained inventory builds."
+            }
+          ],
+          "text": "Brent settled near $105.7–105.9 and WTI near $96–97 on 15 October after mixed sessions. Prices remain elevated relative to pre-conflict levels due to Middle East shipping risks (Hormuz attacks, vessel sinkings), Houthi-Saudi exchanges, and residual Russian supply constraints, offset by potential U.S. easing of sanctions on parts of the “shadow fleet,” large U.S. crude inventory draws, recovering Persian Gulf exports (IEA noted ~75% of pre-war levels in September), and diesel-market tightness. EIA STEO projects Brent averaging ~$105 in Q4 2026 before easing. Short-term risks are skewed to the upside on further escalation around Hormuz, Saudi energy assets, or Ukrainian strikes on Russian refining; downside catalysts include sanctions relief or sustained inventory builds."
+        },
+        {
+          "number": 5,
+          "title": "Inflation, Monetary Policy & Bond Markets",
+          "subsections": [
+            {
+              "title": "",
+              "text": "U.S. September CPI rose 3.7% YoY (above consensus ~3.6%), with core at 2.6%; monthly gains were driven by energy and some services. PPI was also firm. The 10-year Treasury yield fell sharply to ~5.09% by the 15 October close (from recent highs near 5.3%+), as initial hike bets faded on Fed commentary favoring patience. Current target range is 3.75–4.00%; October 27–28 meeting hike odds settled in the ~25–35% range after spiking post-CPI, with December still heavily priced for a hike. Officials have signaled no urgency for an immediate move. European yields tracked lower; BOJ remains on a gradual tightening path while monitoring the yen."
+            }
+          ],
+          "text": "U.S. September CPI rose 3.7% YoY (above consensus ~3.6%), with core at 2.6%; monthly gains were driven by energy and some services. PPI was also firm. The 10-year Treasury yield fell sharply to ~5.09% by the 15 October close (from recent highs near 5.3%+), as initial hike bets faded on Fed commentary favoring patience. Current target range is 3.75–4.00%; October 27–28 meeting hike odds settled in the ~25–35% range after spiking post-CPI, with December still heavily priced for a hike. Officials have signaled no urgency for an immediate move. European yields tracked lower; BOJ remains on a gradual tightening path while monitoring the yen."
+        },
+        {
+          "number": 6,
+          "title": "AI Capex Boom & Supply-Chain Risks",
+          "subsections": [
+            {
+              "title": "",
+              "text": "Global AI-related investment is projected near $1 trillion in 2026 (U.S. share substantial). Binding constraints have shifted from pure GPU allocation toward power availability (grid interconnection queues, data-center electricity demand projected to roughly double by 2030), advanced packaging (TSMC capacity tight), high-bandwidth memory (sold out or heavily committed at SK Hynix, Micron, Samsung into 2026–27), lithography, optical components, and critical minerals (rare earths, copper, specialty materials). Concentration risks are acute: TSMC dominance in leading-edge foundry, geographic exposure in Taiwan, mineral supply chains, and power equipment. Export controls, CHIPS Act dynamics, and dual-use technology dialogues (U.S.-China SI channel) continue to shape sourcing and capacity decisions. Power, not silicon alone, is increasingly the gating factor for deployed compute."
+            }
+          ],
+          "text": "Global AI-related investment is projected near $1 trillion in 2026 (U.S. share substantial). Binding constraints have shifted from pure GPU allocation toward power availability (grid interconnection queues, data-center electricity demand projected to roughly double by 2030), advanced packaging (TSMC capacity tight), high-bandwidth memory (sold out or heavily committed at SK Hynix, Micron, Samsung into 2026–27), lithography, optical components, and critical minerals (rare earths, copper, specialty materials). Concentration risks are acute: TSMC dominance in leading-edge foundry, geographic exposure in Taiwan, mineral supply chains, and power equipment. Export controls, CHIPS Act dynamics, and dual-use technology dialogues (U.S.-China SI channel) continue to shape sourcing and capacity decisions. Power, not silicon alone, is increasingly the gating factor for deployed compute."
+        },
+        {
+          "number": 7,
+          "title": "Interconnections & Monitoring Priorities",
+          "subsections": [
+            {
+              "title": "",
+              "text": "Middle East shipping and energy disruptions support elevated oil prices, feeding into global inflation and limiting central-bank easing room (evident in sticky U.S. CPI and high Treasury yields). Ukraine’s resumed Russian refinery strikes and any U.S.-Russia diesel/energy arrangements interact with the same oil complex and with U.S. domestic price politics ahead of midterms. U.S.-China tariff and minerals truce stability supports tech supply chains and AI capex but remains fragile; any breakdown would compound chip, packaging, and rare-earth bottlenecks already constraining the AI build-out. Yen intervention risk and BOJ path interact with U.S. yields and dollar strength. Energy tightness and high rates raise the cost of capital for power-intensive AI infrastructure."
+            },
+            {
+              "title": "Daily/weekly watchlist",
+              "text": "Hormuz shipping incidents and Houthi-Saudi escalation; Ukraine energy-strike tempo and any U.S. support adjustments; U.S. retail sales/PPI follow-through and FedSpeak into the 27–28 October meeting; USD/JPY approach to 160 and any Japanese verbal or actual action; Board of Trade implementation details and rare-earths flows; AI hyperscaler commentary on power and memory constraints; Brent/WTI response to inventory and sanctions headlines. Report based on data available through 15–16 October 2026. Can be updated on request."
+            }
+          ],
+          "text": ""
+        }
+      ],
+      "monitoring_priorities": [],
+      "outlook": ""
+    },
+    {
       "timestamp": "2026-10-15T20:00:00+00:00",
       "header": "Thursday, October 15, 2026's Report",
       "headline": "Daily macro and geopolitical brief.",
@@ -564,7 +655,9 @@
       ],
       "monitoring_priorities": [],
       "outlook": ""
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-10-09T20:00:00+00:00",
       "header": "Friday, October 9, 2026's Report",
@@ -668,9 +761,7 @@
         "Into November–January: APEC Shenzhen and G20 Miami; January 10 truce expiry; rare-earth shipment data versus the Busan pledge; China farm-purchase tracking."
       ],
       "outlook": ""
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-10-08T20:00:00+00:00",
       "header": "Thursday, October 8, 2026's Report",
