@@ -1,6 +1,97 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-10-18T20:00:00+00:00",
+      "header": "Sunday, October 18, 2026's Report",
+      "headline": "Daily macro and geopolitical brief.",
+      "summary": "Daily macro and geopolitical brief.",
+      "sections": [
+        {
+          "number": 1,
+          "title": "Geopolitics – Key Flashpoints",
+          "subsections": [
+            {
+              "title": "",
+              "text": "U.S.-China relations remain in a managed but fragile détente following President Xi Jinping’s September 23–25 state visit to Washington—the first Chinese presidential visit to the U.S. in over a decade and the second leaders’ meeting of 2026 after Trump’s May trip to Beijing. The sides agreed to pursue a “constructive China–U.S. relationship of strategic stability” based on respect, fairness, and reciprocity. Concrete steps included operationalizing the Boards of Trade and Investment, a reciprocal framework for more favorable tariff treatment on roughly $30 billion of non-sensitive goods in each direction, Chinese commitments to import at least 10 million metric tons of U.S. coal in 2027 and 2028, establishment of a bilateral AI dialogue (next round scheduled for November) plus an AI incident communication channel, and a memorandum of understanding on military crisis communications. Trump and Xi are scheduled to meet again at the APEC summit in Shenzhen in November and the G20 in Miami in December. Fundamental frictions persist over Taiwan, advanced semiconductor export controls, rare-earth and critical-mineral supplies, and investment screening. The U.S.-Israel conflict with Iran continues (approximately day 230+), with hostilities having resumed after a June memorandum of understanding expired. Houthi forces have intensified attacks on Saudi Arabia, including repeated strikes on King Khalid International Airport in Riyadh (reportedly attacked ~20 times in October, with one incident killing 13 and injuring hundreds), Aramco facilities, and other infrastructure, alongside strikes in Yemen such as on the presidential palace complex in Aden. The Strait of Hormuz remains hazardous for commercial shipping, with multiple vessel attacks recorded. President Trump has ruled out nuclear weapons or U.S. ground troops in Iran. Over 50,000 U.S. personnel are deployed in the region under CENTCOM. Saudi-led forces have conducted extensive strikes against Houthi targets. In Ukraine, Russia has claimed significant territorial gains since early September (including more than 1,800 sq km and nearly 100 settlements, such as Dobropillia), which Ukrainian authorities describe as an “illusion,” asserting that Ukrainian forces have liberated more territory over the same period. Russian energy and infrastructure strikes continue despite a short-lived U.S.-brokered “energy ceasefire,” while Ukraine has conducted counteroffensives in Donetsk (Operation Vivaldi) that have slowed Russian pressure on the Sloviansk-Kramatorsk fortress belt. A U.S.-Russia diesel arrangement has drawn criticism from Kyiv. Advances overall remain slow relative to earlier phases of the war."
+            }
+          ],
+          "text": "U.S.-China relations remain in a managed but fragile détente following President Xi Jinping’s September 23–25 state visit to Washington—the first Chinese presidential visit to the U.S. in over a decade and the second leaders’ meeting of 2026 after Trump’s May trip to Beijing. The sides agreed to pursue a “constructive China–U.S. relationship of strategic stability” based on respect, fairness, and reciprocity. Concrete steps included operationalizing the Boards of Trade and Investment, a reciprocal framework for more favorable tariff treatment on roughly $30 billion of non-sensitive goods in each direction, Chinese commitments to import at least 10 million metric tons of U.S. coal in 2027 and 2028, establishment of a bilateral AI dialogue (next round scheduled for November) plus an AI incident communication channel, and a memorandum of understanding on military crisis communications. Trump and Xi are scheduled to meet again at the APEC summit in Shenzhen in November and the G20 in Miami in December. Fundamental frictions persist over Taiwan, advanced semiconductor export controls, rare-earth and critical-mineral supplies, and investment screening. The U.S.-Israel conflict with Iran continues (approximately day 230+), with hostilities having resumed after a June memorandum of understanding expired. Houthi forces have intensified attacks on Saudi Arabia, including repeated strikes on King Khalid International Airport in Riyadh (reportedly attacked ~20 times in October, with one incident killing 13 and injuring hundreds), Aramco facilities, and other infrastructure, alongside strikes in Yemen such as on the presidential palace complex in Aden. The Strait of Hormuz remains hazardous for commercial shipping, with multiple vessel attacks recorded. President Trump has ruled out nuclear weapons or U.S. ground troops in Iran. Over 50,000 U.S. personnel are deployed in the region under CENTCOM. Saudi-led forces have conducted extensive strikes against Houthi targets. In Ukraine, Russia has claimed significant territorial gains since early September (including more than 1,800 sq km and nearly 100 settlements, such as Dobropillia), which Ukrainian authorities describe as an “illusion,” asserting that Ukrainian forces have liberated more territory over the same period. Russian energy and infrastructure strikes continue despite a short-lived U.S.-brokered “energy ceasefire,” while Ukraine has conducted counteroffensives in Donetsk (Operation Vivaldi) that have slowed Russian pressure on the Sloviansk-Kramatorsk fortress belt. A U.S.-Russia diesel arrangement has drawn criticism from Kyiv. Advances overall remain slow relative to earlier phases of the war."
+        },
+        {
+          "number": 2,
+          "title": "Trade Wars & Tariffs",
+          "subsections": [
+            {
+              "title": "",
+              "text": "The U.S.-China trade truce originally set to expire on November 10, 2026, has been extended by two months to January 10, 2027. Overall additional U.S. tariffs on Chinese goods remain near the ~47% level reached under the earlier Busan framework (down from higher peaks). Under the Board of Trade, both sides have identified ~$30 billion of non-sensitive goods for recommended more favorable (closer to MFN) tariff treatment—U.S. examples include certain agricultural goods, seafood, wood products, cosmetics, and medical devices; Chinese examples include toys, small appliances, and holiday decorations (soybeans were notably omitted from the lists). The extension preserves the suspension of China’s expanded rare-earth and related export controls. China has recently proposed draft export controls covering a broad range of technologies, including numerous AI-related items, large language models, and other dual-use technologies (public comment period open until mid-November). The United States continues efforts to expand domestic rare-earth mining, processing, and magnet capacity, with multiple projects underway and government support."
+            }
+          ],
+          "text": "The U.S.-China trade truce originally set to expire on November 10, 2026, has been extended by two months to January 10, 2027. Overall additional U.S. tariffs on Chinese goods remain near the ~47% level reached under the earlier Busan framework (down from higher peaks). Under the Board of Trade, both sides have identified ~$30 billion of non-sensitive goods for recommended more favorable (closer to MFN) tariff treatment—U.S. examples include certain agricultural goods, seafood, wood products, cosmetics, and medical devices; Chinese examples include toys, small appliances, and holiday decorations (soybeans were notably omitted from the lists). The extension preserves the suspension of China’s expanded rare-earth and related export controls. China has recently proposed draft export controls covering a broad range of technologies, including numerous AI-related items, large language models, and other dual-use technologies (public comment period open until mid-November). The United States continues efforts to expand domestic rare-earth mining, processing, and magnet capacity, with multiple projects underway and government support."
+        },
+        {
+          "number": 3,
+          "title": "Macro Currency Interventions",
+          "subsections": [
+            {
+              "title": "",
+              "text": "The Japanese yen remains under pressure, with USD/JPY trading in the high-150s (near or just below 158–160). The Bank of Japan raised its short-term policy rate to 1.25% in September (7-2 vote). Markets currently assign low probability to a further hike at the October 29–30 meeting and higher odds for December. Japanese authorities have issued repeated warnings of potential intervention (“bold action” or “decisive steps”) if yen weakness becomes excessive, particularly near the 160 level that previously triggered action. Earlier in 2026, Japan conducted large-scale yen-buying operations (including a joint intervention with the United States in July). The interest-rate differential with the United States remains wide (Fed funds at 3.75–4.00%). Broader central-bank trends show divergence: the Fed and ECB both hiked in September, while some other central banks have continued easing."
+            }
+          ],
+          "text": "The Japanese yen remains under pressure, with USD/JPY trading in the high-150s (near or just below 158–160). The Bank of Japan raised its short-term policy rate to 1.25% in September (7-2 vote). Markets currently assign low probability to a further hike at the October 29–30 meeting and higher odds for December. Japanese authorities have issued repeated warnings of potential intervention (“bold action” or “decisive steps”) if yen weakness becomes excessive, particularly near the 160 level that previously triggered action. Earlier in 2026, Japan conducted large-scale yen-buying operations (including a joint intervention with the United States in July). The interest-rate differential with the United States remains wide (Fed funds at 3.75–4.00%). Broader central-bank trends show divergence: the Fed and ECB both hiked in September, while some other central banks have continued easing."
+        },
+        {
+          "number": 4,
+          "title": "Energy Markets & Oil Prices",
+          "subsections": [
+            {
+              "title": "",
+              "text": "Brent crude is trading in the $105–110 range (recent settlements near $109–110), elevated by the ongoing Middle East conflict, restricted flows through the Strait of Hormuz, Houthi attacks on Saudi energy and transport infrastructure, and tight diesel markets. Global inventories have drawn significantly in recent quarters. The U.S. Energy Information Administration’s October Short-Term Energy Outlook forecasts Brent averaging ~$105/b in Q4 2026 before declining to an average of ~$84/b in 2027 as Middle East supply adapts and inventories rebuild, while noting substantial near-term volatility risk. Goldman Sachs projects Brent near $90 by December 2026 and averaging $80 in 2027 under a base case of gradual recovery, with meaningful upside if escalation persists. Coordinated stock releases and SPR-related exchanges have provided only limited relief. Short-term risks remain skewed higher given shipping attacks and infrastructure strikes."
+            }
+          ],
+          "text": "Brent crude is trading in the $105–110 range (recent settlements near $109–110), elevated by the ongoing Middle East conflict, restricted flows through the Strait of Hormuz, Houthi attacks on Saudi energy and transport infrastructure, and tight diesel markets. Global inventories have drawn significantly in recent quarters. The U.S. Energy Information Administration’s October Short-Term Energy Outlook forecasts Brent averaging ~$105/b in Q4 2026 before declining to an average of ~$84/b in 2027 as Middle East supply adapts and inventories rebuild, while noting substantial near-term volatility risk. Goldman Sachs projects Brent near $90 by December 2026 and averaging $80 in 2027 under a base case of gradual recovery, with meaningful upside if escalation persists. Coordinated stock releases and SPR-related exchanges have provided only limited relief. Short-term risks remain skewed higher given shipping attacks and infrastructure strikes."
+        },
+        {
+          "number": 5,
+          "title": "Inflation, Monetary Policy & Bond Markets",
+          "subsections": [
+            {
+              "title": "",
+              "text": "U.S. September CPI rose 0.6% month-over-month and 3.7% year-over-year (up from 3.4% in August), with gasoline accounting for more than half the monthly increase; core CPI rose 0.3% m/m and 2.6% y/y (slightly above consensus). The Federal Reserve hiked the funds rate 25 bp in September to a 3.75–4.00% target range—its first increase in three years. Markets currently price roughly 35–50% odds of another hike at the October 27–28 meeting, with higher probability of further tightening by year-end. The 10-year Treasury yield is near 5.08–5.10% (having touched higher levels around 5.3% following the CPI release before partially retracing). The ECB raised its deposit rate to 2.50% in September; its next meeting is October 29. The BoJ stands at 1.25%. Elevated energy prices linked to geopolitics are a primary driver of the recent inflation uptick and have contributed to the global bond sell-off and higher yields."
+            }
+          ],
+          "text": "U.S. September CPI rose 0.6% month-over-month and 3.7% year-over-year (up from 3.4% in August), with gasoline accounting for more than half the monthly increase; core CPI rose 0.3% m/m and 2.6% y/y (slightly above consensus). The Federal Reserve hiked the funds rate 25 bp in September to a 3.75–4.00% target range—its first increase in three years. Markets currently price roughly 35–50% odds of another hike at the October 27–28 meeting, with higher probability of further tightening by year-end. The 10-year Treasury yield is near 5.08–5.10% (having touched higher levels around 5.3% following the CPI release before partially retracing). The ECB raised its deposit rate to 2.50% in September; its next meeting is October 29. The BoJ stands at 1.25%. Elevated energy prices linked to geopolitics are a primary driver of the recent inflation uptick and have contributed to the global bond sell-off and higher yields."
+        },
+        {
+          "number": 6,
+          "title": "AI Capex Boom & Supply-Chain Risks",
+          "subsections": [
+            {
+              "title": "",
+              "text": "Global AI-related investment is approaching or exceeding $1 trillion in 2026, led by hyperscaler capital expenditure (combined guidance from major players in the hundreds of billions). Binding constraints are shifting from pure chip supply toward physical infrastructure: power and grid interconnection (projected multi-gigawatt shortfalls in key markets), high-bandwidth memory (largely sold out through 2026 and into 2027), advanced packaging (e.g., TSMC CoWoS capacity tight through at least mid-2027), specialty materials, optical components, and cooling/water. Rare earths, gallium, germanium, and related critical minerals remain highly concentrated in Chinese refining and processing (often 80–90%+), with export-control leverage intact under the current truce extension. China has floated additional technology export controls covering AI-related items. Concentration risks also exist in lithography (ASML), leading-edge foundry capacity (TSMC), and certain passive components and industrial gases. Power availability, not just semiconductors, is increasingly cited as the near-term ceiling on deployed compute."
+            }
+          ],
+          "text": "Global AI-related investment is approaching or exceeding $1 trillion in 2026, led by hyperscaler capital expenditure (combined guidance from major players in the hundreds of billions). Binding constraints are shifting from pure chip supply toward physical infrastructure: power and grid interconnection (projected multi-gigawatt shortfalls in key markets), high-bandwidth memory (largely sold out through 2026 and into 2027), advanced packaging (e.g., TSMC CoWoS capacity tight through at least mid-2027), specialty materials, optical components, and cooling/water. Rare earths, gallium, germanium, and related critical minerals remain highly concentrated in Chinese refining and processing (often 80–90%+), with export-control leverage intact under the current truce extension. China has floated additional technology export controls covering AI-related items. Concentration risks also exist in lithography (ASML), leading-edge foundry capacity (TSMC), and certain passive components and industrial gases. Power availability, not just semiconductors, is increasingly cited as the near-term ceiling on deployed compute."
+        },
+        {
+          "number": 7,
+          "title": "Interconnections & Monitoring Priorities",
+          "subsections": [
+            {
+              "title": "",
+              "text": "Middle East energy disruptions are feeding directly into higher oil prices, which in turn are lifting headline inflation, supporting the case for tighter monetary policy, and contributing to elevated global bond yields. Higher U.S. yields and the wide policy-rate gap are sustaining pressure on the yen and raising intervention risks. The U.S.-China trade truce provides temporary relief on tariffs and rare-earth flows but remains short-dated; any reimposition of controls would compound AI supply-chain bottlenecks already visible in packaging, memory, power, and critical minerals. Geopolitical flashpoints (Hormuz shipping, Houthi/Saudi escalation, Ukraine energy strikes) and the AI build-out’s physical constraints are mutually reinforcing sources of inflation and supply risk."
+            },
+            {
+              "title": "Near-term watchlist",
+              "text": "- Fed (Oct 27–28) and ECB (Oct 29) meetings; BoJ (Oct 29–30) and any yen intervention signals near USD/JPY 160.\n- Oil price path and further Hormuz/Saudi infrastructure developments.\n- Progress (or lack thereof) on the $30 billion tariff lists and rare-earth licensing under the truce to January 10.\n- AI power interconnection timelines, HBM/packaging allocation, and any finalization of Chinese technology export controls.\n- Battlefield and energy-strike dynamics in Ukraine and the broader Middle East. This report reflects the latest publicly available information as of 2026-10-18 and can be updated on request."
+            }
+          ],
+          "text": ""
+        }
+      ],
+      "monitoring_priorities": [],
+      "outlook": ""
+    },
+    {
       "timestamp": "2026-10-17T20:00:00+00:00",
       "header": "Saturday, October 17, 2026's Report",
       "headline": "Daily macro and geopolitical brief.",
@@ -568,7 +659,9 @@
         "AI-related supply signals (TSMC, power, rare earths) and any truce-related export developments."
       ],
       "outlook": ""
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-10-11T20:00:00+00:00",
       "header": "Sunday, October 11, 2026's Report",
@@ -659,9 +752,7 @@
       ],
       "monitoring_priorities": [],
       "outlook": ""
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-10-10T20:00:00+00:00",
       "header": "Saturday, October 10, 2026's Report",
@@ -2310,7 +2401,9 @@
         "Rare-earth and HBM lead-time anecdotes from chipmakers."
       ],
       "outlook": ""
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-09-25T20:00:00+00:00",
       "header": "Friday, September 25, 2026's Report",
@@ -2431,7 +2524,6 @@
       "outlook": "The environment remains one of elevated volatility and fragmented risk. Growth is supported by AI and resilient U.S. demand but faces headwinds from energy costs, sticky inflation, and geopolitical uncertainty. Policy responses (monetary, fiscal, and trade) will continue to be data- and event-dependent, with the January 2027 U.S.–China deadline and ongoing Middle East developments as key near-term markers."
     }
   ],
-  "past_3_months": [],
   "past_6_months": [],
   "past_1_year": [],
   "historical": []
