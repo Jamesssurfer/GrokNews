@@ -569,7 +569,9 @@
         "AI infrastructure news on power permitting, project delays, or hyperscaler financing."
       ],
       "outlook": ""
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-10-24T20:00:00+00:00",
       "header": "Saturday, October 24, 2026's Report",
@@ -666,9 +668,7 @@
         "AI-related power, HBM, and transformer delivery updates."
       ],
       "outlook": ""
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-10-23T20:00:00+00:00",
       "header": "Friday, October 23, 2026's Report",
@@ -2073,7 +2073,9 @@
         "Into November–January: APEC Shenzhen and G20 Miami; January 10 truce expiry; rare-earth shipment data versus the Busan pledge; China farm-purchase tracking."
       ],
       "outlook": ""
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-10-08T20:00:00+00:00",
       "header": "Thursday, October 8, 2026's Report",
@@ -2180,9 +2182,7 @@
         "EIA inventories (next report 14 October) and Gulf of Mexico restart."
       ],
       "outlook": ""
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-10-07T20:00:00+00:00",
       "header": "Wednesday, October 7, 2026's Report",
