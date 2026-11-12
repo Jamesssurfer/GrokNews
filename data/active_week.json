@@ -1,5 +1,104 @@
 [
   {
+    "timestamp": "2026-11-12T20:00:00+00:00",
+    "header": "Thursday, November 12, 2026's Report",
+    "headline": "Daily macro and geopolitical brief",
+    "summary": "",
+    "sections": [
+      {
+        "number": 1,
+        "title": "Geopolitics – Key Flashpoints",
+        "subsections": [
+          {
+            "title": "U.S.-China relations / Trump-Xi follow-ups",
+            "text": "The relationship remains framed around “constructive strategic stability” based on respect, fairness, and reciprocity. Presidents Trump and Xi held summits in Beijing (May) and Washington (September). A third is scheduled for the APEC summit in Shenzhen on 18–19 November, with a fourth planned for Miami in December. Preparatory contacts continue, including a recent Rubio-Wang call. Deliverables from September included a two-month trade truce extension (now formalized to 10 January 2027), reciprocal tariff relief recommendations on ~$30 billion of non-sensitive goods in each direction, a Board of Trade and Board of Investment, an agricultural working group, Chinese commitments on soybeans and coal imports, continued work on rare-earth flows, and an AI/“super intelligence” dialogue channel. Differences persist on Taiwan, technology export controls, and full implementation of prior commitments. China has kept faith in the Trump channel even after U.S. midterm results."
+          },
+          {
+            "title": "U.S.-Iran conflict & Middle East (including Houthis)",
+            "text": "The conflict is ongoing (day ~257 as of 11 November). The U.S. continues an economic pressure/blockade campaign while major combat operations remain limited. Secretary Rubio has said there is “no need” for a restart of major operations if pressure works; Trump has described the situation as status quo with forces “locked and loaded.” Iran’s SNSC head has rejected ongoing negotiation claims as false and linked Strait of Hormuz reopening to seven conditions. Attacks on Gulf shipping continue. On the Houthi front, mutual strikes persist: Houthis have targeted Saudi infrastructure (including claims against Riyadh-area targets, Aramco facilities, and airports), while Saudi-led forces have conducted interceptions and strikes inside Yemen. Fighting also continues in Yemeni government-aligned areas."
+          },
+          {
+            "title": "Ukraine-Russia",
+            "text": "Intense frontline fighting continues (125 clashes reported in one recent day; heaviest in Kostiantynivka and Pokrovsk sectors), with heavy Russian drone/missile use and Ukrainian long-range strikes on Russian energy, ports, and military production. Ukrainian drone activity has disrupted a significant share of Russian refining capacity. US-brokered trilateral talks in Abu Dhabi have produced progress on a large-scale prisoner exchange and some mutual understanding, with Ukrainian officials expressing hope for results by year-end. Territorial issues, security guarantees, European role, and trust remain major gaps. Kremlin framing emphasizes broader European security architecture. No major frontline territorial shifts were recorded in the most recent ISW assessment. Other developments remain secondary to the above flashpoints."
+          }
+        ],
+        "text": ""
+      },
+      {
+        "number": 2,
+        "title": "Trade Wars & Tariffs",
+        "subsections": [
+          {
+            "title": "",
+            "text": "China has formally extended the Busan-era trade truce measures by two months to 10 January 2027. The additional 24% Chinese tariff on U.S. goods stays suspended; a 10% blanket tariff remains. Port fees on U.S.-linked vessels, certain export-control and entity-list measures, and related restrictions are also paused through the same date. On the U.S. side, the reduced fentanyl-related tariff (10% rather than 20%), suspension of Section 301 maritime measures, and extended Section 301 exclusions continue. Reciprocal recommendations for more favorable treatment on ~$30 billion of non-sensitive goods each way (agricultural, energy, consumer, and other items) were advanced via the Board of Trade, though final implementation details and timing remain subject to domestic procedures. Soybeans were notably excluded from some lists. The Shenzhen APEC meeting is the near-term focal point for possible further extension or additional deals. Both sides continue to press the other on full implementation of prior commitments (agriculture, rare earths)."
+          }
+        ],
+        "text": "China has formally extended the Busan-era trade truce measures by two months to 10 January 2027. The additional 24% Chinese tariff on U.S. goods stays suspended; a 10% blanket tariff remains. Port fees on U.S.-linked vessels, certain export-control and entity-list measures, and related restrictions are also paused through the same date. On the U.S. side, the reduced fentanyl-related tariff (10% rather than 20%), suspension of Section 301 maritime measures, and extended Section 301 exclusions continue. Reciprocal recommendations for more favorable treatment on ~$30 billion of non-sensitive goods each way (agricultural, energy, consumer, and other items) were advanced via the Board of Trade, though final implementation details and timing remain subject to domestic procedures. Soybeans were notably excluded from some lists. The Shenzhen APEC meeting is the near-term focal point for possible further extension or additional deals. Both sides continue to press the other on full implementation of prior commitments (agriculture, rare earths)."
+      },
+      {
+        "number": 3,
+        "title": "Macro Currency Interventions",
+        "subsections": [
+          {
+            "title": "",
+            "text": "The yen remains under pressure. USD/JPY has traded near 159 recently (around 158.7–159.8 in latest closes), approaching levels that previously triggered intervention risk. Japan conducted large yen-buying operations in late July–early August (including a record single-day purchase of ~¥7.98 trillion and a multi-day total of ~¥15.4 trillion), with the first coordinated U.S.-Japan intervention since 1998 on 31 July. The Finance Ministry has confirmed the actions and maintains a readiness to act against disorderly moves. The BoJ has raised rates (most recently to 1.25% in September, with board splits), and further tightening is expected, but the wide policy-rate gap versus the Fed continues to favor the dollar. Verbal and rate-checking signals have been used; fresh intervention risk rises if the pair approaches or clears 160. Broader central-bank trends show the Fed and ECB leaning tighter on inflation risks while the BoJ continues its gradual normalization from ultra-low rates."
+          }
+        ],
+        "text": "The yen remains under pressure. USD/JPY has traded near 159 recently (around 158.7–159.8 in latest closes), approaching levels that previously triggered intervention risk. Japan conducted large yen-buying operations in late July–early August (including a record single-day purchase of ~¥7.98 trillion and a multi-day total of ~¥15.4 trillion), with the first coordinated U.S.-Japan intervention since 1998 on 31 July. The Finance Ministry has confirmed the actions and maintains a readiness to act against disorderly moves. The BoJ has raised rates (most recently to 1.25% in September, with board splits), and further tightening is expected, but the wide policy-rate gap versus the Fed continues to favor the dollar. Verbal and rate-checking signals have been used; fresh intervention risk rises if the pair approaches or clears 160. Broader central-bank trends show the Fed and ECB leaning tighter on inflation risks while the BoJ continues its gradual normalization from ultra-low rates."
+      },
+      {
+        "number": 4,
+        "title": "Energy Markets & Oil Prices",
+        "subsections": [
+          {
+            "title": "",
+            "text": "Brent has traded in the low-to-mid $90s and WTI in the mid-to-high $80s in recent sessions (examples: Brent near $91–93, WTI ~$86–87), after sharp swings tied to Iran-war headlines. Prices fell on hopes of de-escalation or limited further U.S. strikes but remain supported by ongoing Hormuz shipping attacks, residual supply constraints from earlier shut-ins, and tight product markets. EIA’s latest outlook projects Brent averaging around $100 for the remainder of 2026 amid constrained Middle East flows and elevated risk. OPEC+ held production steady. Key drivers include the Iran conflict status, Houthi/Saudi exchanges, Ukrainian strikes on Russian refining, and inventory data. Risks are two-sided: a genuine Hormuz reopening or ceasefire would pressure prices lower; escalation or sustained disruption would push them higher. Short-term outlook is volatile and headline-driven, with a floor underpinned by geopolitical risk premia."
+          }
+        ],
+        "text": "Brent has traded in the low-to-mid $90s and WTI in the mid-to-high $80s in recent sessions (examples: Brent near $91–93, WTI ~$86–87), after sharp swings tied to Iran-war headlines. Prices fell on hopes of de-escalation or limited further U.S. strikes but remain supported by ongoing Hormuz shipping attacks, residual supply constraints from earlier shut-ins, and tight product markets. EIA’s latest outlook projects Brent averaging around $100 for the remainder of 2026 amid constrained Middle East flows and elevated risk. OPEC+ held production steady. Key drivers include the Iran conflict status, Houthi/Saudi exchanges, Ukrainian strikes on Russian refining, and inventory data. Risks are two-sided: a genuine Hormuz reopening or ceasefire would pressure prices lower; escalation or sustained disruption would push them higher. Short-term outlook is volatile and headline-driven, with a floor underpinned by geopolitical risk premia."
+      },
+      {
+        "number": 5,
+        "title": "Inflation, Monetary Policy & Bond Markets",
+        "subsections": [
+          {
+            "title": "",
+            "text": "U.S. October CPI rose 0.4% m/m (above 0.3% consensus); core was 0.3% m/m (above 0.2% consensus). This was the third consecutive elevated core monthly print, pushing the three-month annualized core pace higher. Markets fully price a December Fed hike of at least 25 bp, with a non-negligible probability of 50 bp after comments from Governor Waller and other officials emphasizing the need to respond if inflation remains sticky. 2-year yields saw large jumps; 10-year yields approached or briefly touched ~5%. ECB rates are unchanged (deposit facility at 2.50%), with energy-driven upside inflation risks noted and a December hike flagged as likely, followed by a potential pause. BoJ normalization continues against a still-wide rate differential. Bond markets have repriced toward a more extended restrictive path."
+          }
+        ],
+        "text": "U.S. October CPI rose 0.4% m/m (above 0.3% consensus); core was 0.3% m/m (above 0.2% consensus). This was the third consecutive elevated core monthly print, pushing the three-month annualized core pace higher. Markets fully price a December Fed hike of at least 25 bp, with a non-negligible probability of 50 bp after comments from Governor Waller and other officials emphasizing the need to respond if inflation remains sticky. 2-year yields saw large jumps; 10-year yields approached or briefly touched ~5%. ECB rates are unchanged (deposit facility at 2.50%), with energy-driven upside inflation risks noted and a December hike flagged as likely, followed by a potential pause. BoJ normalization continues against a still-wide rate differential. Bond markets have repriced toward a more extended restrictive path."
+      },
+      {
+        "number": 6,
+        "title": "AI Capex Boom & Supply-Chain Risks",
+        "subsections": [
+          {
+            "title": "",
+            "text": "Hyperscaler and related AI infrastructure spending is at record levels (combined major U.S. guidance in the $700 billion range for 2026). Semiconductor capex forecasts have been revised upward. Tight bottlenecks include power generation and grid equipment (gas turbines, transformers, grid connections with multi-year lead times), rare-earth magnets and midstream processing (high China concentration), leading-edge logic and advanced packaging (TSMC dominance), high-bandwidth memory, and certain specialty materials. Hyperscaler demand is crowding out other electronics production and elevating lead times and prices in PCBs and related inputs. Geopolitical risks (export controls, rare-earth licensing) amplify concentration vulnerabilities. Power availability and mineral processing remain structural constraints that cannot be resolved quickly."
+          }
+        ],
+        "text": "Hyperscaler and related AI infrastructure spending is at record levels (combined major U.S. guidance in the $700 billion range for 2026). Semiconductor capex forecasts have been revised upward. Tight bottlenecks include power generation and grid equipment (gas turbines, transformers, grid connections with multi-year lead times), rare-earth magnets and midstream processing (high China concentration), leading-edge logic and advanced packaging (TSMC dominance), high-bandwidth memory, and certain specialty materials. Hyperscaler demand is crowding out other electronics production and elevating lead times and prices in PCBs and related inputs. Geopolitical risks (export controls, rare-earth licensing) amplify concentration vulnerabilities. Power availability and mineral processing remain structural constraints that cannot be resolved quickly."
+      },
+      {
+        "number": 7,
+        "title": "Interconnections & Monitoring Priorities",
+        "subsections": [
+          {
+            "title": "",
+            "text": "Geopolitical flashpoints (Iran/Hormuz, Houthi activity, Ukraine energy strikes) directly feed energy prices and inflation, which in turn shape Fed/ECB tightening expectations, bond yields, and dollar strength—reinforcing yen pressure and intervention risk. The U.S.-China truce and rare-earth/AI dialogue sit at the intersection of trade, technology, and supply-chain security for the AI boom. Higher rates and yields raise financing costs for the massive AI capex cycle, while power and mineral bottlenecks limit how quickly that capex translates into usable compute. Currency and rate differentials also affect capital flows and relative competitiveness."
+          },
+          {
+            "title": "Daily/weekly watchlist",
+            "text": "Shenzhen APEC Trump-Xi meeting (18–19 Nov) and any trade/AI/rare-earth signals; Iran Hormuz conditions and shipping incidents; Abu Dhabi follow-on talks and prisoner-exchange implementation; USD/JPY approach to 160 and any Japanese rate-checking or intervention; U.S. inflation follow-through and December Fed pricing; oil reaction to de-escalation headlines versus disruption news; AI-related power and mineral supply developments. This report reflects the latest available information as of 12 November 2026 and can be updated on request."
+          }
+        ],
+        "text": ""
+      }
+    ],
+    "monitoring_priorities": [],
+    "outlook": ""
+  },
+  {
     "timestamp": "2026-11-11T20:00:00+00:00",
     "header": "Wednesday, November 11, 2026's Report",
     "headline": "Daily macro and geopolitical brief",
