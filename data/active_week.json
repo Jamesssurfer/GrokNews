@@ -1,5 +1,104 @@
 [
   {
+    "timestamp": "2026-11-21T20:00:00+00:00",
+    "header": "Saturday, November 21, 2026's Report",
+    "headline": "Daily macro and geopolitical brief",
+    "summary": "",
+    "sections": [
+      {
+        "number": 1,
+        "title": "Geopolitics – Key Flashpoints",
+        "subsections": [
+          {
+            "title": "U.S.-China / Trump-Xi",
+            "text": "Presidents Trump and Xi held their third meeting of 2026 on 19 November in Shenzhen on the sidelines of APEC. Both sides described the talks as positive and constructive and agreed to develop an “action plan for a constructive strategic stability relationship” based on respect, fairness, and reciprocity. Xi urged the U.S. to “do the right thing” on Taiwan to avoid setbacks; Trump reiterated the longstanding U.S. position of not supporting Taiwan independence. Cooperation was discussed on AI (to keep it under human control), fentanyl/narcotics, agriculture, and energy. A subsequent trilateral session including Putin produced a joint nuclear-risk statement but little concrete progress on Ukraine or Iran. Ongoing U.S. chip-export restrictions and China’s critical-minerals leverage remain points of friction despite the diplomatic tone."
+          },
+          {
+            "title": "U.S.-Iran & Middle East (including Houthis)",
+            "text": "The conflict that began with U.S.-Israeli strikes in late February 2026 remains in a stalemate near day 266. Low-level exchanges continue: U.S. strikes on Iranian sites near the Strait of Hormuz (including Qeshm) and Iranian attacks/claims of mines or strikes on tankers and U.S.-linked assets in Bahrain/Kuwait. Iran asserts influence over Hormuz shipping lanes; tanker incidents have run at a high pace in November. Diplomacy via Oman/Qatar has stalled after the June memorandum. Houthis have escalated against Saudi Arabia, striking targets including Riyadh’s financial district (damaging the Public Investment Fund tower) and threatening Red Sea ports (Jeddah) and infrastructure. The Saudi-led coalition has conducted heavy strikes on Houthi positions and warned of further action; fighting in Yemen has intensified with Houthi gains in some southern areas. Trump has indicated he is “not rushing” major new strikes and could wait until after the new year. Senate efforts to constrain the war have failed."
+          },
+          {
+            "title": "Ukraine-Russia",
+            "text": "On the ~1,731st day of the full-scale invasion, Russia launched a major overnight barrage on 19–20 November (following Putin’s meetings in China and his vow of retaliation for Ukrainian strikes on the Kerch Bridge). Ukrainian authorities reported more than 110 missiles (including ~27 ballistic) and 400+ drones; air defenses intercepted the majority. Strikes damaged three bridges across the Dnipro in Kyiv, critical infrastructure, and other sites; at least eight civilians were killed and dozens injured, with power disruptions ahead of winter. The front line remains largely static, with both sides claiming incremental gains or successful defenses in Donetsk areas. Zelenskyy has described Ukrainian positions as strong. No breakthrough on peace talks emerged from the Shenzhen trilateral. Other notes: Limited spillover (e.g., debris or drones affecting neighboring states) continues to be monitored."
+          }
+        ],
+        "text": ""
+      },
+      {
+        "number": 2,
+        "title": "Trade Wars & Tariffs",
+        "subsections": [
+          {
+            "title": "",
+            "text": "The U.S.-China trade truce (originating from the October 2025 Busan framework and previously extended) remains in place through 10 January 2027. China’s additional 24% tariff on U.S. goods stays suspended (a 10% rate remains); the U.S. maintains reduced tariffs and suspensions on certain Section 301 measures and related actions. The 19 November Shenzhen summit produced no further extension, new reciprocal tariff cuts, or broader deal. Discussions continue on potential targeted reductions covering roughly $30 billion in non-sensitive goods on each side, agricultural purchases, and market-access issues. Critical-minerals export-control suspensions and port-fee pauses are also extended to the same January date. U.S. advanced-chip restrictions remain a live source of tension, with China having threatened countermeasures. Businesses face continued uncertainty beyond early January 2027."
+          }
+        ],
+        "text": "The U.S.-China trade truce (originating from the October 2025 Busan framework and previously extended) remains in place through 10 January 2027. China’s additional 24% tariff on U.S. goods stays suspended (a 10% rate remains); the U.S. maintains reduced tariffs and suspensions on certain Section 301 measures and related actions. The 19 November Shenzhen summit produced no further extension, new reciprocal tariff cuts, or broader deal. Discussions continue on potential targeted reductions covering roughly $30 billion in non-sensitive goods on each side, agricultural purchases, and market-access issues. Critical-minerals export-control suspensions and port-fee pauses are also extended to the same January date. U.S. advanced-chip restrictions remain a live source of tension, with China having threatened countermeasures. Businesses face continued uncertainty beyond early January 2027."
+      },
+      {
+        "number": 3,
+        "title": "Macro Currency Interventions",
+        "subsections": [
+          {
+            "title": "",
+            "text": "The Japanese yen has traded in the high-159s per dollar, repeatedly testing the closely watched 160 level that has previously triggered intervention. Tokyo has issued firm verbal warnings and previously conducted large-scale yen purchases in 2026 (including a record single-session amount and some limited U.S. coordination). The BoJ policy rate remains low (around 1.0–1.25%), with a majority of economists expecting a hike (potentially to 1.50%) in December. The still-wide differential versus the Fed’s 3.75–4.00% range sustains pressure on the yen. Broader central-bank trends: the Fed is in a tightening bias after hot inflation prints; the ECB has held rates (around 2.50%) with a data-dependent stance; other banks show mixed signals amid elevated energy prices."
+          }
+        ],
+        "text": "The Japanese yen has traded in the high-159s per dollar, repeatedly testing the closely watched 160 level that has previously triggered intervention. Tokyo has issued firm verbal warnings and previously conducted large-scale yen purchases in 2026 (including a record single-session amount and some limited U.S. coordination). The BoJ policy rate remains low (around 1.0–1.25%), with a majority of economists expecting a hike (potentially to 1.50%) in December. The still-wide differential versus the Fed’s 3.75–4.00% range sustains pressure on the yen. Broader central-bank trends: the Fed is in a tightening bias after hot inflation prints; the ECB has held rates (around 2.50%) with a data-dependent stance; other banks show mixed signals amid elevated energy prices."
+      },
+      {
+        "number": 4,
+        "title": "Energy Markets & Oil Prices",
+        "subsections": [
+          {
+            "title": "",
+            "text": "Brent crude has recently traded in the $89–92 range (closes near $89.9–91.4 in the latest sessions) and WTI near $82–84, heading for a third consecutive weekly decline of roughly 4–5% despite geopolitical noise. Key drivers include robust Middle East export flows (aided by adaptation via pipelines, ship-to-ship transfers, and tanker fleets), rising inventories in some metrics, and forecasts of a growing surplus into 2027 as shut-ins ease from earlier peaks. Risks remain elevated: near-daily Hormuz tanker incidents, Houthi threats and strikes on Saudi energy/transport targets, and the possibility of broader U.S.-Iran escalation. Short-term outlook is volatile with a residual risk premium; longer-term base cases (absent major disruption) point to easing as supply adapts, with some analysts seeing 2027 averages in the high-$80s or lower."
+          }
+        ],
+        "text": "Brent crude has recently traded in the $89–92 range (closes near $89.9–91.4 in the latest sessions) and WTI near $82–84, heading for a third consecutive weekly decline of roughly 4–5% despite geopolitical noise. Key drivers include robust Middle East export flows (aided by adaptation via pipelines, ship-to-ship transfers, and tanker fleets), rising inventories in some metrics, and forecasts of a growing surplus into 2027 as shut-ins ease from earlier peaks. Risks remain elevated: near-daily Hormuz tanker incidents, Houthi threats and strikes on Saudi energy/transport targets, and the possibility of broader U.S.-Iran escalation. Short-term outlook is volatile with a residual risk premium; longer-term base cases (absent major disruption) point to easing as supply adapts, with some analysts seeing 2027 averages in the high-$80s or lower."
+      },
+      {
+        "number": 5,
+        "title": "Inflation, Monetary Policy & Bond Markets",
+        "subsections": [
+          {
+            "title": "",
+            "text": "U.S. October CPI was hotter than expected (headline +0.4% m/m, core +0.3% m/m), reinforcing reacceleration concerns after prior strong prints; year-over-year readings are estimated in the high-3% range for headline and near 2.8% for core (with some data-collection caveats from earlier disruptions). The Fed’s target range stands at 3.75–4.00%. Markets are pricing a high probability of a 25 bp hike at the December meeting, with some probability of 50 bp and further tightening into 2027. The 10-year Treasury yield has fluctuated near 4.91–5.15% recently and closed around 4.91–4.95% on 20 November after a multi-day decline. ECB remains on hold; BoJ is expected to hike in December. Energy-driven inflation and policy divergence continue to shape differentials."
+          }
+        ],
+        "text": "U.S. October CPI was hotter than expected (headline +0.4% m/m, core +0.3% m/m), reinforcing reacceleration concerns after prior strong prints; year-over-year readings are estimated in the high-3% range for headline and near 2.8% for core (with some data-collection caveats from earlier disruptions). The Fed’s target range stands at 3.75–4.00%. Markets are pricing a high probability of a 25 bp hike at the December meeting, with some probability of 50 bp and further tightening into 2027. The 10-year Treasury yield has fluctuated near 4.91–5.15% recently and closed around 4.91–4.95% on 20 November after a multi-day decline. ECB remains on hold; BoJ is expected to hike in December. Energy-driven inflation and policy divergence continue to shape differentials."
+      },
+      {
+        "number": 6,
+        "title": "AI Capex Boom & Supply-Chain Risks",
+        "subsections": [
+          {
+            "title": "",
+            "text": "Hyperscaler capital expenditure guidance for 2026 is exceptionally large (combined figures for major U.S. players in the $700 billion range), driving intense demand for advanced chips, high-bandwidth memory, advanced packaging, power, and related materials. Bottlenecks are acute in semiconductor capacity (especially memory and packaging, with constraints expected to persist well beyond 2026), copper, rare earths, and lithium. China retains dominant processing shares for rare earths and many critical minerals. Power-grid connections, permitting, and local opposition are additional constraints. Capital availability is emerging as a limit for some players. Concentration risks across chips, packaging, rare earths, and power create vulnerability to geopolitical or trade disruptions; the boom is also crowding out capacity in other electronics segments."
+          }
+        ],
+        "text": "Hyperscaler capital expenditure guidance for 2026 is exceptionally large (combined figures for major U.S. players in the $700 billion range), driving intense demand for advanced chips, high-bandwidth memory, advanced packaging, power, and related materials. Bottlenecks are acute in semiconductor capacity (especially memory and packaging, with constraints expected to persist well beyond 2026), copper, rare earths, and lithium. China retains dominant processing shares for rare earths and many critical minerals. Power-grid connections, permitting, and local opposition are additional constraints. Capital availability is emerging as a limit for some players. Concentration risks across chips, packaging, rare earths, and power create vulnerability to geopolitical or trade disruptions; the boom is also crowding out capacity in other electronics segments."
+      },
+      {
+        "number": 7,
+        "title": "Interconnections & Monitoring Priorities",
+        "subsections": [
+          {
+            "title": "",
+            "text": "Geopolitical flashpoints in the Middle East directly feed oil-price volatility and energy-driven inflation, which supports tighter Fed policy, higher Treasury yields, a stronger dollar, and renewed pressure on the yen (raising intervention risk). U.S.-China strategic and technology tensions intersect with the AI boom via chip controls and critical-minerals leverage, while the AI power demand adds to energy-market tightness. Ukraine-related energy and infrastructure risks remain secondary but non-zero. Trade-truce expiry in January 2027 is a key calendar event."
+          },
+          {
+            "title": "Daily/weekly watchlist",
+            "text": "Hormuz shipping incidents and any U.S.-Iran escalation signals; Houthi-Saudi exchanges and Yemen front; Fed communications and December meeting pricing; BoJ December decision and yen levels near 160; next U.S. inflation prints and 10-year yield behavior; status of U.S.-China trade talks and any chip/rare-earth moves; hyperscaler or TSMC updates on AI capex and supply constraints; Ukraine energy infrastructure and front-line developments. This report reflects the latest available information as of 21 November 2026 and can be updated on request."
+          }
+        ],
+        "text": ""
+      }
+    ],
+    "monitoring_priorities": [],
+    "outlook": ""
+  },
+  {
     "timestamp": "2026-11-20T20:00:00+00:00",
     "header": "Friday, November 20, 2026's Report",
     "headline": "Daily macro and geopolitical brief",
