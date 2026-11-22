@@ -1,6 +1,113 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-11-15T20:00:00+00:00",
+      "header": "Sunday, November 15, 2026's Report",
+      "headline": "Daily macro and geopolitical brief",
+      "summary": "",
+      "sections": [
+        {
+          "number": 1,
+          "title": "Geopolitics – Key Flashpoints",
+          "subsections": [
+            {
+              "title": "U.S.-China / Trump-Xi",
+              "text": "The bilateral trade truce (originating from the October 2025 Busan framework) has been formally extended until 10 January 2027. China suspended an additional 24% tariff on U.S. goods (retaining a 10% levy) and paused other measures including export-control waivers on critical minerals, restrictions on certain U.S. entities, and special port fees. The U.S. extended Section 301 tariff exclusions on 178 Chinese product categories. Presidents Trump and Xi are scheduled to meet on the sidelines of the APEC summit in Shenzhen on 18–19 November (their third meeting this year), with possible discussion of further tariff reductions on roughly $60 billion of reciprocal non-sensitive goods, agricultural purchases (including soybeans), rare-earth flows, and AI/“super intelligence” risk management. Tensions persist over chip export controls; U.S. lawmakers have widened a probe into Nvidia, and there is discussion of possible U.S.-China-Russia trilateral engagement on the APEC sidelines. Beijing is seeking stability ahead of its 2027 Party Congress preparations, while Washington faces post-midterm dynamics."
+            },
+            {
+              "title": "U.S.-Iran / Middle East / Houthis",
+              "text": "The conflict continues with intermittent shipping disruptions in and around the Strait of Hormuz. Iranian forces have claimed additional mine strikes on commercial vessels (including tankers and a liquefied gas carrier in mid-November), though U.S. assessments indicate routes have been cleared and no confirmed re-mining. The U.S. maintains a naval blockade and economic pressure (CENTCOM Task Force elements), while signaling restraint on further strikes absent new provocations. Houthis have launched ballistic missiles and drones against Yemeni government-aligned forces in Lahij and against Saudi targets (including pipeline pumping stations, oil facilities, and Riyadh-area infrastructure). Saudi-led forces have conducted airstrikes in response. Trump has indicated willingness to hold off on escalatory action unless provoked, amid ongoing indirect talks and Iranian demands (end of blockade, asset release, sanctions relief, etc.). Shipping volumes through Hormuz remain well below pre-war levels despite partial recovery in Gulf exports."
+            },
+            {
+              "title": "Ukraine-Russia",
+              "text": "Trilateral talks (Ukraine, Russia, U.S.) took place in Abu Dhabi this week, with discussion of expanding future rounds to include European representatives and working toward a large-scale prisoner exchange (potentially up to 1,500 per side). Positions remain firm: Russia insists on Ukrainian neutrality, demilitarization, and territorial elements; Ukraine and the West emphasize security guarantees. Battlefield activity continues with Russian strikes on Ukrainian energy infrastructure, hospitals (including Kyiv), and cities (Zaporizhzhia, Odesa), plus Ukrainian drone/missile attacks on Russian industrial and energy targets (e.g., Volgograd region). Starshield satellite system speed restrictions have limited Ukrainian interception capabilities. A Russian warship was reportedly struck in the Gulf of Finland. Overall trajectory points toward a possible negotiated endgame, though core gaps on territory and security architecture persist. Day count is approximately 1,725."
+            }
+          ],
+          "text": ""
+        },
+        {
+          "number": 2,
+          "title": "Trade Wars & Tariffs",
+          "subsections": [
+            {
+              "title": "",
+              "text": "The U.S.-China trade truce has been extended through 10 January 2027. China is suspending the additional 24% tariff on U.S. imports while retaining 10%; the U.S. has extended certain Section 301 exclusions and related waivers. Other suspended measures include Chinese export controls on critical minerals/technologies, entity-list restrictions, and port fees on U.S.-linked vessels. A proposed package of reciprocal tariff cuts covering roughly $30 billion in goods each way (total ~$60 billion, focused on non-sensitive items including agriculture) remains under discussion and has not been finalized. Flashpoints include Chinese agricultural purchase commitments (e.g., soybeans), rare-earth supply continuity, and U.S. Section 301/IEEPA policy evolution. No major new tariff actions were announced in the past week outside the formalized extension. The APEC summit is the next near-term test of whether the truce is further prolonged or deepened."
+            }
+          ],
+          "text": "The U.S.-China trade truce has been extended through 10 January 2027. China is suspending the additional 24% tariff on U.S. imports while retaining 10%; the U.S. has extended certain Section 301 exclusions and related waivers. Other suspended measures include Chinese export controls on critical minerals/technologies, entity-list restrictions, and port fees on U.S.-linked vessels. A proposed package of reciprocal tariff cuts covering roughly $30 billion in goods each way (total ~$60 billion, focused on non-sensitive items including agriculture) remains under discussion and has not been finalized. Flashpoints include Chinese agricultural purchase commitments (e.g., soybeans), rare-earth supply continuity, and U.S. Section 301/IEEPA policy evolution. No major new tariff actions were announced in the past week outside the formalized extension. The APEC summit is the next near-term test of whether the truce is further prolonged or deepened."
+        },
+        {
+          "number": 3,
+          "title": "Macro Currency Interventions",
+          "subsections": [
+            {
+              "title": "",
+              "text": "The Japanese yen has tested the 160 level against the dollar for the third time in 2026, prompting fresh verbal intervention warnings from Finance Minister Satsuki Katayama, top currency diplomat Atsushi Mimura, and Prime Minister Sanae Takaichi. Tokyo spent a record ~¥15.4 trillion in late July–early August (including a daily record of ~¥8 trillion on 30 July), with a limited coordinated U.S. component (far smaller than initially signaled). The rate differential (Fed funds 3.75–4.00% vs. BoJ 1.25%) continues to drive yen weakness; BoJ has signaled possible further hikes but remains cautious on the pace. Broader central-bank trend is toward further tightening amid energy-driven inflation: ECB deposit rate at 2.50% (held October, after September hike), BoE Bank Rate at 4.00% (hiked November), with most major banks on hold recently but flagging upside inflation risks. Limited U.S. support for yen intervention has reduced the perceived deterrent of joint action."
+            }
+          ],
+          "text": "The Japanese yen has tested the 160 level against the dollar for the third time in 2026, prompting fresh verbal intervention warnings from Finance Minister Satsuki Katayama, top currency diplomat Atsushi Mimura, and Prime Minister Sanae Takaichi. Tokyo spent a record ~¥15.4 trillion in late July–early August (including a daily record of ~¥8 trillion on 30 July), with a limited coordinated U.S. component (far smaller than initially signaled). The rate differential (Fed funds 3.75–4.00% vs. BoJ 1.25%) continues to drive yen weakness; BoJ has signaled possible further hikes but remains cautious on the pace. Broader central-bank trend is toward further tightening amid energy-driven inflation: ECB deposit rate at 2.50% (held October, after September hike), BoE Bank Rate at 4.00% (hiked November), with most major banks on hold recently but flagging upside inflation risks. Limited U.S. support for yen intervention has reduced the perceived deterrent of joint action."
+        },
+        {
+          "number": 4,
+          "title": "Energy Markets & Oil Prices",
+          "subsections": [
+            {
+              "title": "",
+              "text": "Brent crude settled near $95–96/bbl and WTI near $88–89/bbl in mid-November, posting a second consecutive weekly decline of roughly 2.5%. Prices remain elevated versus pre-February 2026 levels (~$72 Brent) but have eased from wartime peaks above $120 amid signs of a returning global supply surplus. Key drivers include partial recovery in Gulf exports (IEA notes Gulf crude flows approaching a high percentage of pre-war levels), softer U.S. product demand, and higher inventories, offset by ongoing Hormuz risks (transits still sharply reduced; Iranian claims of mine strikes and Houthi attacks on Saudi energy infrastructure). Short-term outlook is range-bound with a high floor under a “no-deal, no-escalation” scenario; further de-escalation or surplus confirmation could push prices lower, while renewed major disruptions or Houthi/Saudi escalation could reverse gains quickly. Natural gas (TTF, JKM) remains elevated."
+            }
+          ],
+          "text": "Brent crude settled near $95–96/bbl and WTI near $88–89/bbl in mid-November, posting a second consecutive weekly decline of roughly 2.5%. Prices remain elevated versus pre-February 2026 levels (~$72 Brent) but have eased from wartime peaks above $120 amid signs of a returning global supply surplus. Key drivers include partial recovery in Gulf exports (IEA notes Gulf crude flows approaching a high percentage of pre-war levels), softer U.S. product demand, and higher inventories, offset by ongoing Hormuz risks (transits still sharply reduced; Iranian claims of mine strikes and Houthi attacks on Saudi energy infrastructure). Short-term outlook is range-bound with a high floor under a “no-deal, no-escalation” scenario; further de-escalation or surplus confirmation could push prices lower, while renewed major disruptions or Houthi/Saudi escalation could reverse gains quickly. Natural gas (TTF, JKM) remains elevated."
+        },
+        {
+          "number": 5,
+          "title": "Inflation, Monetary Policy & Bond Markets",
+          "subsections": [
+            {
+              "title": "",
+              "text": "U.S. October CPI rose 0.4% m/m (headline) and 0.3% m/m (core), stronger than expected; year-over-year estimates are in the ~3.9–4.0% range (data gaps from prior shutdown). October PPI was softer at +0.3% m/m but with high annual readings (headline ~6.5%). Markets have repriced for a Fed hike at the December meeting (fully pricing 25 bp, with non-negligible odds of 50 bp), following hawkish commentary from officials including Governor Waller (open to jumbo hike if core stays elevated), Williams, and others. 10-year Treasury yield rose to ~5.15% (largest weekly gain in ~19 months); 2-year near ~4.87%. Fed funds target remains 3.75–4.00% after the September hike and October hold. ECB (2.50%) and BoJ (1.25%) held in late October; both have flagged inflation risks (energy-driven in Europe). Higher yields reflect persistent above-target inflation and tighter policy expectations into 2027."
+            }
+          ],
+          "text": "U.S. October CPI rose 0.4% m/m (headline) and 0.3% m/m (core), stronger than expected; year-over-year estimates are in the ~3.9–4.0% range (data gaps from prior shutdown). October PPI was softer at +0.3% m/m but with high annual readings (headline ~6.5%). Markets have repriced for a Fed hike at the December meeting (fully pricing 25 bp, with non-negligible odds of 50 bp), following hawkish commentary from officials including Governor Waller (open to jumbo hike if core stays elevated), Williams, and others. 10-year Treasury yield rose to ~5.15% (largest weekly gain in ~19 months); 2-year near ~4.87%. Fed funds target remains 3.75–4.00% after the September hike and October hold. ECB (2.50%) and BoJ (1.25%) held in late October; both have flagged inflation risks (energy-driven in Europe). Higher yields reflect persistent above-target inflation and tighter policy expectations into 2027."
+        },
+        {
+          "number": 6,
+          "title": "AI Capex Boom & Supply-Chain Risks",
+          "subsections": [
+            {
+              "title": "",
+              "text": "Hyperscaler capital expenditure guidance for 2026 is in the ~$700–730 billion range (Amazon, Alphabet, Meta, Microsoft and others), roughly double 2025 levels, with 2027 estimates approaching or exceeding $1 trillion. Demand remains strong but constrained by physical bottlenecks: power generation and grid (gas turbines with multi-year lead times, transformers, connection queues); advanced chips and packaging (TSMC CoWoS capacity expansion, EUV lithography from ASML); high-bandwidth memory (HBM from SK Hynix and peers, with tightness projected into 2027–2030); rare earths and permanent magnets (China-dominant refining and export controls); substrates, optics, and specialized materials. Nvidia CEO Jensen Huang resigned mid-November amid personal controversies (including reported ties raising national-security concerns); CFO Colette Kress is interim CEO while a permanent successor is sought. This adds execution and policy risk (export controls to China). Concentration risks are high across the stack; financing (cash-flow coverage of capex) and power availability are binding constraints. China rare-earth leverage intersects with the trade truce."
+            }
+          ],
+          "text": "Hyperscaler capital expenditure guidance for 2026 is in the ~$700–730 billion range (Amazon, Alphabet, Meta, Microsoft and others), roughly double 2025 levels, with 2027 estimates approaching or exceeding $1 trillion. Demand remains strong but constrained by physical bottlenecks: power generation and grid (gas turbines with multi-year lead times, transformers, connection queues); advanced chips and packaging (TSMC CoWoS capacity expansion, EUV lithography from ASML); high-bandwidth memory (HBM from SK Hynix and peers, with tightness projected into 2027–2030); rare earths and permanent magnets (China-dominant refining and export controls); substrates, optics, and specialized materials. Nvidia CEO Jensen Huang resigned mid-November amid personal controversies (including reported ties raising national-security concerns); CFO Colette Kress is interim CEO while a permanent successor is sought. This adds execution and policy risk (export controls to China). Concentration risks are high across the stack; financing (cash-flow coverage of capex) and power availability are binding constraints. China rare-earth leverage intersects with the trade truce."
+        },
+        {
+          "number": 7,
+          "title": "Interconnections & Monitoring Priorities",
+          "subsections": [
+            {
+              "title": "",
+              "text": "Energy disruptions (Hormuz, Houthi attacks on Saudi infrastructure, Ukrainian strikes on Russian energy) sustain elevated oil and gas prices, feeding into inflation that is forcing major central banks toward further tightening. Higher U.S. rates widen differentials, pressuring the yen and raising intervention risk while supporting the dollar. U.S.-China trade truce stability underpins rare-earth and critical-mineral flows essential to AI hardware, while chip-export controls and Nvidia leadership transition add uncertainty to the AI capex cycle. Geopolitical flashpoints (APEC Trump-Xi, Ukraine talks, Iran/Houthi activity) can rapidly reprice energy, rates, and risk assets. Inflation stickiness and yield rises also interact with AI financing needs and broader risk sentiment."
+            },
+            {
+              "title": "Daily/weekly watchlist",
+              "text": "- APEC Shenzhen (18–19 Nov): Trump-Xi outcomes on trade, rare earths, AI dialogue. - Hormuz shipping and Houthi/Saudi incidents; any verified major mine strikes or escalation. - Fed rhetoric and December meeting pricing; U.S. activity data. - Yen around 160 and any fresh intervention signals or data. - Ukraine talks progress and energy infrastructure strikes. - Nvidia leadership transition and any export-control developments; AI supply-chain updates (HBM, power equipment). - Oil inventory/export data and IEA/OPEC commentary on surplus. This report can be updated on request."
+            }
+          ],
+          "text": ""
+        }
+      ],
+      "monitoring_priorities": [
+        "APEC Shenzhen (18–19 Nov): Trump-Xi outcomes on trade, rare earths, AI dialogue.",
+        "Hormuz shipping and Houthi/Saudi incidents; any verified major mine strikes or escalation.",
+        "Fed rhetoric and December meeting pricing; U.S. activity data.",
+        "Yen around 160 and any fresh intervention signals or data.",
+        "Ukraine talks progress and energy infrastructure strikes.",
+        "Nvidia leadership transition and any export-control developments; AI supply-chain updates (HBM, power equipment).",
+        "Oil inventory/export data and IEA/OPEC commentary on surplus."
+      ],
+      "outlook": ""
+    },
+    {
       "timestamp": "2026-11-14T20:00:00+00:00",
       "header": "Saturday, November 14, 2026's Report",
       "headline": "Daily macro and geopolitical brief",
@@ -565,7 +672,9 @@
       ],
       "monitoring_priorities": [],
       "outlook": ""
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-11-08T20:00:00+00:00",
       "header": "Sunday, November 8, 2026's Report",
@@ -663,9 +772,7 @@
         "AI power and critical-mineral news flow; hyperscaler capex commentary."
       ],
       "outlook": ""
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-11-07T20:00:00+00:00",
       "header": "Saturday, November 7, 2026's Report",
@@ -2007,7 +2114,9 @@
         "AI-related power, HBM, and transformer delivery updates."
       ],
       "outlook": ""
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-10-23T20:00:00+00:00",
       "header": "Friday, October 23, 2026's Report",
@@ -2098,9 +2207,7 @@
       ],
       "monitoring_priorities": [],
       "outlook": ""
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-10-22T20:00:00+00:00",
       "header": "Thursday, October 22, 2026's Report",
